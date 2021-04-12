@@ -1,3 +1,18 @@
+def bisection_recursive(lo, hi, a):
+
+    if (hi - lo <= 0.00001):
+
+        return (lo + hi) / 2
+
+    else:
+
+        m = (lo + hi) / 2
+
+        if( f(lo, a) * f(m, a) < 0 ):
+            return bisection_recursive(lo, m, a)
+        else:
+            return bisection_recursive(m, hi, a)
+
 def f(x, a):
 
     return x * x - a
@@ -53,5 +68,9 @@ def main():
 
     res = bisection2(0, n + 5, n)
 
+    res_rec = bisection_recursive(0, n + 5, n)
+
     print(res)
+    print()
+    print(res_rec)
 main()
