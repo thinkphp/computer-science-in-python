@@ -10,4 +10,8 @@ https://ideone.com/kEnrKW
 
 https://ideone.com/8SQKRq
 
+# N Queens Puzzle
+
+https://ideone.com/hALeCJ
+
 
