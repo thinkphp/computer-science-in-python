@@ -14,4 +14,7 @@ https://ideone.com/8SQKRq
 
 https://ideone.com/hALeCJ
 
+# Knight Puzzle
+
+https://ideone.com/Hh3PC7
 
