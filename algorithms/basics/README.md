@@ -9,4 +9,4 @@
 7. Return all elements Spiral Order Matrix https://ideone.com/zWo34T
 8. Sorting without comparison of the elements https://ideone.com/iwm671
 9. Derivates of Polynomial https://ideone.com/dDO9F8
-10.Quadratic Equation https://ideone.com/C6eQZs
+10. 10. Quadratic Equation https://ideone.com/C6eQZs
