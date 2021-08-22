@@ -11,3 +11,4 @@
 9. Derivates of Polynomial https://ideone.com/dDO9F8
 10. Quadratic Equation https://ideone.com/C6eQZs
 11. Permutations https://ideone.com/9rCihk
+12. Check Order Array https://ideone.com/7HM5qx
