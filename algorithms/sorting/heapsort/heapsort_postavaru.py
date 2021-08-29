@@ -38,9 +38,7 @@ def down( parent ):
 
           Heap[ child ] = aux
 
-          parent = child
-
-          child = 2 * parent
+          parent = child          
 
 def insertHeap( value ):
 
