@@ -13,3 +13,4 @@
 11. Permutations https://ideone.com/9rCihk
 12. Check Order Array https://ideone.com/7HM5qx
 13. Sorting using counting https://ideone.com/QUOfCC
+14. Triangle https://replit.com/@thinkphp/IsoscelesTriangle#triangle.py
