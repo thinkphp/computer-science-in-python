@@ -1,4 +1,4 @@
-ef down(parent):
+def down(parent):
 
     while 2 * parent <= size:
 
