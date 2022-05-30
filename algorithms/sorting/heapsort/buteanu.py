@@ -1,3 +1,16 @@
+def up( child ):
+
+    parent = child // 2
+
+    while parent != 0:
+
+          if Heap[child] <= Heap[parent]:
+              Heap[child], Heap[parent] = Heap[parent], Heap[child]
+              child = parent
+              parent  = child // 2
+          else:
+              break
+
 def down(parent):
 
     while 2 * parent <= size:
