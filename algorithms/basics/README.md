@@ -15,3 +15,4 @@
 13. Sorting using counting https://ideone.com/QUOfCC
 14. Isosceles Triangle - iterative https://replit.com/@thinkphp/IsoscelesTriangle#triangle.py
 15. Isosceles Triangle - recursive https://replit.com/@thinkphp/IsoscelesTriangle#main.py
+16. Collatz Conjecture https://ideone.com/Dt3Sb7
