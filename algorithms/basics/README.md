@@ -16,4 +16,4 @@
 14. Isosceles Triangle - iterative https://replit.com/@thinkphp/IsoscelesTriangle#triangle.py
 15. Isosceles Triangle - recursive https://replit.com/@thinkphp/IsoscelesTriangle#main.py
 16. Goldbach Conjecture - https://ideone.com/oVTdD7
-17. Collatz Conjecture - 
+17. Collatz Conjecture - https://ideone.com/Dt3Sb7
