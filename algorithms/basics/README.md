@@ -17,3 +17,4 @@
 15. Isosceles Triangle - recursive https://replit.com/@thinkphp/IsoscelesTriangle#main.py
 16. Goldbach Conjecture - https://ideone.com/oVTdD7
 17. Collatz Conjecture - https://ideone.com/Dt3Sb7
+18. Frequency - count number of accurrences in a list https://ideone.com/KVA9ML
