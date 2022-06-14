@@ -146,7 +146,7 @@ class LinkedList:
 
 
 def main():
-    '''
+    
     value = int(input("value =  "))
 
     obj = LinkedList()
@@ -178,9 +178,13 @@ def main():
     obj.insertBeforeNode(key, 8888)
 
     obj.display()
-    '''
+    
 
     obj = LinkedList()
+    
     arr = [200,9,8,7,-6,-5,11,101]
+    
+    print()
+    
     obj.sort(arr)
 main()
