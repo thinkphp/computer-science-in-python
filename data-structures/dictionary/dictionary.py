@@ -17,6 +17,11 @@ def database():
         "Peru": "Lima"
         }
 
+        i = 1
+        for key, value in myDic.items():
+            print("%d. %s" % (i, key) )
+            i+=1
+
 def get2(string):
 
     for key, value in myDic.items():
@@ -43,12 +48,13 @@ def get(string):
 
 def func():
 
+    print("List of South America Countries:")
+
     database()
 
-    print("List of South America Countries and Capitals")
     country = str(input("Country = "))
 
     capital = get2(country)
 
-    print(capital)
+    print("The capital of the %s is: %s" % (country.capitalize(),capital.capitalize()))
 func()
