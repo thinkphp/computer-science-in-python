@@ -11,11 +11,12 @@
  9. Derivates of Polynomial https://ideone.com/dDO9F8
 10. Quadratic Equation https://ideone.com/C6eQZs
 11. Permutations https://ideone.com/9rCihk
-12. Check Order Array https://ideone.com/7HM5qx
-13. Mountain https://ideone.com/bthCIr
-14. Sorting using counting https://ideone.com/QUOfCC
-15. Isosceles Triangle - iterative https://replit.com/@thinkphp/IsoscelesTriangle#triangle.py
-16. Isosceles Triangle - recursive https://replit.com/@thinkphp/IsoscelesTriangle#main.py
-17. Goldbach Conjecture - https://ideone.com/oVTdD7
-18. Collatz Conjecture - https://ideone.com/Dt3Sb7
-19. Frequency - count number of accurrences in a list https://ideone.com/KVA9ML
+12. Partitions https://ideone.com/2RPrMh
+13. Check Order Array https://ideone.com/7HM5qx
+14. Mountain https://ideone.com/bthCIr
+15. Sorting using counting https://ideone.com/QUOfCC
+16. Isosceles Triangle - iterative https://replit.com/@thinkphp/IsoscelesTriangle#triangle.py
+17. Isosceles Triangle - recursive https://replit.com/@thinkphp/IsoscelesTriangle#main.py
+18. Goldbach Conjecture - https://ideone.com/oVTdD7
+19. Collatz Conjecture - https://ideone.com/Dt3Sb7
+20. Frequency - count number of accurrences in a list https://ideone.com/KVA9ML
