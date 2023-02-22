@@ -63,10 +63,22 @@ def babylon(n):
     result = "sqrt(%d) = %f" % (n,x)
     print(result)
 babylon(3)
+def fact_dei(lo, hi):
+    if lo == hi:
+        return lo
+    m = (lo + hi) >> 1
+    a = fact_dei(lo, m)
+    b = fact_dei(m+1,hi)
+    return a * b
+
+def fact(n):
+    return fact_dei(1, n)
+    
 def mesopotamiam():
     arr = [12,14]
     print("max=%d"%max(arr))
     print("min=%d"%min(arr))
     print("gcd=%d"%gcd(arr))
     print("lcm=%d"%l_m_c(arr))
+    print(fact(5))
 mesopotamiam()
