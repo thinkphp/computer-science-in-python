@@ -17,5 +17,6 @@ END
 
 Demos:
 
-1. http://thinkphp.pythonanywhere.com/projects/colormap/5
-2. https://ideone.com/MNavY9
+1. Map Coloring http://thinkphp.pythonanywhere.com/projects/colormap/5
+2. Map Coloring https://ideone.com/MNavY9
+3. Knapsack Problem https://ideone.com/4xqQ8W
