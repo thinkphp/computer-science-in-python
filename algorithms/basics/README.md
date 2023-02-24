@@ -21,3 +21,4 @@
 19. Collatz Conjecture - https://ideone.com/Dt3Sb7
 20. Frequency - count number of accurrences in a list https://ideone.com/KVA9ML
 21. Finding Max Consecutive Subseq https://ideone.com/CMEmTK
+22. Finds the equation of the straight line through the points  ( 0 , 2 )  and  ( − 1 , 4 ) .https://ideone.com/Ggtpxm
