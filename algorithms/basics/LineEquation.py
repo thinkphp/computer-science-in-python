@@ -1,20 +1,27 @@
-	#
+#
 # General Equation Line: ax + by + c = 0
-# y - y1 = m (x - x1) with slope
-# y = m x + c
-# a = y1-y2
+#
+# y - y1 = m (x - x1) where m = (y2-y1)/(x2-x1)
+#
+# y = m x + c where c can be compute replacing a point A(x1,y1) -> c = mx1-y1
+#
+# a = y1 - y2
 # b = x2 - x1
 # c = x2y1 - x1y2
 #
+# ax + by + c = 0
+#
+
 class Point():
 
     def __init__(self, x, y, name):
-    
+
         self.name = name
         self.x = x
         self.y = y
-        
+
     def __repr__(self):
+    
         return self.name + '(' + str(self.x) + "," + str(self.y) + ')'
 
 def computeSlope(x1, y1, x2, y2):
@@ -23,21 +30,30 @@ def computeSlope(x1, y1, x2, y2):
 
 def func():
 
-    A = Point(0,2,"A")
-    B = Point(-1,4,"B")
+    A = Point(5,7,"A")
+    B = Point(1,3,"B")
 
+    #Find the equation of the line that passes through the point (x, y) and has a slope
     slope = computeSlope(A.x, A.y, B.x, B.y)
 
-    print(slope)
+    print("Gradiend = ", slope)
     print(A)
     print(B)
 
-    c = B.x * A.y - A.x * B.y
-
+    c = A.y - slope * A.x
+    print("First method:")
     print("y = %.2f * x + %.2f"%(slope, c))
     
-    print("y - %.2f = %.2f x - %.2f %.2f " % (A.y, slope, slope, A.x))
+    print("Second method:")
+    print("(y - y1 = m (x - x1)) => y - %.2f = %.2f x - %.2f * %.2f " % (A.y, slope, slope, A.x))
+
+    print("y = %.2f x - %.2f * %.2f + %.2f " % (slope, slope, A.x, A.y))
+
+    print("y = %.2f x %f " % (slope, -slope * A.x + A.y))
+    a = A.y - B.y
+    b = B.x - A.x
+    c = (B.x * A.y) - (A.x * B.y)
     
-    print("y = %.2f x - %.2f %.2f + %.2f " % (slope, slope, A.x, A.y))
-    
+    print("Third method:")    
+    print("Equation Line(ax+by+c=0) => %.2f x+ %.2f y+ %.2f=0"%(a,b,c))
 func()
