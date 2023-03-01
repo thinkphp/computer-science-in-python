@@ -23,3 +23,8 @@ https://ideone.com/Hh3PC7
 # Salesman Travelling Problem
 
 https://ideone.com/74vzUL
+
+# Map Color
+
+https://ideone.com/uc1KPA
+
