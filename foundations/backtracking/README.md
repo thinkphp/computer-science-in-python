@@ -1,5 +1,9 @@
 # Backtracking Technics
 
+# Permutations
+
+https://ideone.com/9rCihk
+
 # Partitions
 
 https://ideone.com/Dy8qmM
