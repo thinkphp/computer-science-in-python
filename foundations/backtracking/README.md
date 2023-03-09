@@ -4,9 +4,9 @@
 
 https://ideone.com/9rCihk
 
-# Partitions
+# Partition of an integer ->  https://ideone.com/q2tGzj
 
-https://ideone.com/Dy8qmM
+# Partition of a set -> Phttps://ideone.com/Dy8qmM
 
 # Comb(n, k)
 
