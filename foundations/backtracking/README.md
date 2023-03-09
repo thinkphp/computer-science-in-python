@@ -1,38 +1,37 @@
-## Backtracking Technics
+# Backtracking Technics
 
-# Permutations
+### Permutations
 
 https://ideone.com/9rCihk
 
-# Partition of an integer ->  
+### Partition of an integer ->  
 
 https://ideone.com/q2tGzj
 
-# Partition of a set -> 
+### Partition of a set -> 
 
 https://ideone.com/Dy8qmM
 
-# Comb(n, k)
+### Comb(n, k)
 
 https://ideone.com/kEnrKW
 
-# Arrange(n, k)
+### Arrange(n, k)
 
 https://ideone.com/8SQKRq
 
-# N Queens Puzzle
+### N Queens Puzzle
 
 https://ideone.com/hALeCJ
 
-# Knight Puzzle
+### Knight Puzzle
 
 https://ideone.com/Hh3PC7
 
-# Salesman Travelling Problem
+### Salesman Travelling Problem
 
 https://ideone.com/74vzUL
 
-# Map Color
+### Map Color
 
 https://ideone.com/uc1KPA
-
