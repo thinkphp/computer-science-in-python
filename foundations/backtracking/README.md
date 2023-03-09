@@ -1,4 +1,4 @@
-# Backtracking Technics
+## Backtracking Technics
 
 # Permutations
 
