@@ -4,9 +4,13 @@
 
 https://ideone.com/9rCihk
 
-# Partition of an integer ->  https://ideone.com/q2tGzj
+# Partition of an integer ->  
 
-# Partition of a set -> https://ideone.com/Dy8qmM
+https://ideone.com/q2tGzj
+
+# Partition of a set -> 
+
+https://ideone.com/Dy8qmM
 
 # Comb(n, k)
 
