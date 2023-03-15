@@ -9,9 +9,11 @@ def topsort():
             if explored[ k ] is False and matrix[ node ][ k ] == 1:
 
                 dfs( k )
+                
         sol.append(node)
 
     def reverse2(list):
+        
             i = 0
             
             j = len(list)-1
@@ -25,7 +27,9 @@ def topsort():
                 j -=1
 
     def reverse(list):
+        
             newList = list[::-1]
+            
             return newList
 
 
