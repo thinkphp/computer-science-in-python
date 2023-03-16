@@ -10,8 +10,8 @@ https://ideone.com/q2tGzj
 
 ### Partition of a set -> 
 
-https://ideone.com/6QjR4U
-https://ideone.com/Dy8qmM
+* https://ideone.com/6QjR4U
+* https://ideone.com/Dy8qmM
 
 ### Comb(n, k)
 
