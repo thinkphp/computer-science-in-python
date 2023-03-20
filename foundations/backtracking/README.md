@@ -25,7 +25,7 @@ https://ideone.com/8SQKRq
 
 https://ideone.com/hALeCJ
 
-### Knight Puzzle
+### Knight's Tour
 
 * https://ideone.com/Hh3PC7
 * https://ideone.com/TWAQXL
