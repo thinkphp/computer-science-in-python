@@ -27,8 +27,8 @@ https://ideone.com/hALeCJ
 
 ### Knight Puzzle
 
-https://ideone.com/Hh3PC7
-https://ideone.com/TWAQXL
+* https://ideone.com/Hh3PC7
+* https://ideone.com/TWAQXL
 
 ### Salesman Travelling Problem
 
