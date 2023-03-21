@@ -37,3 +37,7 @@ https://ideone.com/74vzUL
 ### Map Color
 
 https://ideone.com/uc1KPA
+
+### Payment A Sum divided in many coins
+
+https://ideone.com/hcr7zc
