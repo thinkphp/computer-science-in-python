@@ -1,5 +1,9 @@
 # Backtracking Technics
 
+### Subsets of a set
+
+https://ideone.com/yBIh7m
+
 ### Permutations
 
 https://ideone.com/9rCihk
