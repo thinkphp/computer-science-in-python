@@ -15,7 +15,7 @@ def database():
          {"to awake":"awoke, awoke => a se trezi"}],
     "b":[{"the verb":"past tense, past participle"},
          {"to be":"was, been => a fi"},
-         {"to bear":"bore, born => a naste"},
+         {"to bear":"bore, born => to give birth"},
          {"to bear":"bore, borne => a purta"},
          {"to beat":"beat, beaten => a bate"},
          {"to bear":"bore, borne => a deveni"},
@@ -41,7 +41,8 @@ def func():
 
     ch = 'y'
     while ch == 'y':
-      letter = input("Letter of Alphabet = ")
+      intro = "Welcome to my App Irregular Verbs\nWith passion and love for May Ann Campanera\nSearch for a letter:"
+      letter = input(intro)
       if letter in dictionary.keys():
          get(letter)
       else:
