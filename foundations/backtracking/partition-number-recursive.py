@@ -6,7 +6,10 @@ def partition():
                 print(stack[i], end = " ")
             print()
         else:
-             stack[level] = 0
+             if level == 1:
+                    stack[level] = 0
+             else:
+                 stack[level] = stack[level-1]-1
              while stack[level] + sum < n:
                 stack[level] += 1
                 sum += stack[level]
