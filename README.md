@@ -1,1 +1,4 @@
-# Computer Science in Python3 language.
+# Computer Science in Python
+
+### References
+https://web.stanford.edu/class/cs97si/
