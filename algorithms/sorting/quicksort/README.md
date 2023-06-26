@@ -1,3 +1,9 @@
 # Quick Sort
 
-1) https://ideone.com/wR0f9m
+## Examples:
+
+* https://ideone.com/wR0f9m
+
+## References:
+
+https://www.geeksforgeeks.org/quick-sort/
