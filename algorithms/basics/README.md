@@ -1,5 +1,5 @@
 ## Basics Algorithms
-
+ 0. Sets: Union, Diff, Interseect https://ideone.com/e9weVD
  1. Generate all subsets of a set https://ideone.com/Rjmc5x | https://ideone.com/YgD0HW
  2. Generators in Python 3 - Fibonacci, Primes and Collatz https://ideone.com/R3nU17
  3. Fibonacci with Tail Recursion https://ideone.com/N209mu
