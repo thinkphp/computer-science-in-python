@@ -19,4 +19,4 @@ Samples:
 
 1. Map Coloring https://ideone.com/MNavY9 http://thinkphp.pythonanywhere.com/projects/colormap/5
 2. Knapsack Problem https://ideone.com/4xqQ8W
-3. Payment Method Problem
+3. Payment Method Problem https://ideone.com/aaSgdm
