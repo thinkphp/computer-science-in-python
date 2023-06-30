@@ -15,8 +15,8 @@ while (not finished) execute
 END
 ```
 
-Demos:
+Samples:
 
-1. Map Coloring http://thinkphp.pythonanywhere.com/projects/colormap/5
-2. Map Coloring https://ideone.com/MNavY9
-3. Knapsack Problem https://ideone.com/4xqQ8W
+1. Map Coloring https://ideone.com/MNavY9 http://thinkphp.pythonanywhere.com/projects/colormap/5
+2. Knapsack Problem https://ideone.com/4xqQ8W
+3. Payment Method Problem
