@@ -12,6 +12,8 @@ https://www.pbinfo.ro/articole/17951/programare-dinamica-introducere
 
 https://www.infoarena.ro/pd
 
+https://ocw.cs.pub.ro/courses/pa/laboratoare/laborator-03
+
 ## Practice
 
 https://www.pbinfo.ro/probleme/categorii/158/programare-dinamica-probleme-de-numarare
