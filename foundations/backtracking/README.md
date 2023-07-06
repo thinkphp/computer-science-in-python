@@ -45,3 +45,11 @@ https://ideone.com/uc1KPA
 ### Payment A Sum divided in many coins
 
 https://ideone.com/hcr7zc
+
+### Practice
+
+https://www.pbinfo.ro/probleme/categorii/28/backtracking-elemente-de-combinatorica
+
+https://www.pbinfo.ro/probleme/categorii/50/backtracking-probleme-diverse
+
+https://www.pbinfo.ro/probleme/categorii/51/backtracking-backtracking-in-plan
