@@ -32,10 +32,10 @@ Longest Increasing Subsequence https://replit.com/@thinkphp/lis | https://ideone
 7. Match Words.
 
 8. Generating Combinations.
-   * https://ideone.com/C4ihfv
+   * https://ideone.com/pRNbbZ
    
-9. Matrix Chain Multiplication
-10. Levenshtein Distance
+10. Matrix Chain Multiplication
+11. Levenshtein Distance
 
 ## Problem Set
 
