@@ -30,7 +30,10 @@ Longest Increasing Subsequence https://replit.com/@thinkphp/lis | https://ideone
    
 6. Knapsack Problem.
 7. Match Words.
+
 8. Generating Combinations.
+   * https://ideone.com/C4ihfv
+   
 9. Matrix Chain Multiplication
 10. Levenshtein Distance
 
