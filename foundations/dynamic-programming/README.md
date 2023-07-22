@@ -38,6 +38,10 @@ Longest Increasing Subsequence https://replit.com/@thinkphp/lis | https://ideone
 8. Matrix Chain Multiplication
 
 9. Levenshtein Distance
+   * https://leetcode.com/problems/edit-distance/
+   * https://cses.fi/problemset/task/1639/
+   * https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
+
     * https://ideone.com/xLh4mW
 
 ## Problem Set
