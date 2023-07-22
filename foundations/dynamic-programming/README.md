@@ -15,29 +15,30 @@ Longest Increasing Subsequence https://replit.com/@thinkphp/lis | https://ideone
    * https://www.pbinfo.ro/probleme/2086/sclmprime
 
 2. LCS - Longest Common Subsequence
+   * https://leetcode.com/problems/longest-common-subsequence/
    * https://ideone.com/6EcvVr
    * https://ideone.com/sfThv1
    * https://ideone.com/kf02K5
    
-3. TP - Triangle Problem TP
+4. TP - Triangle Problem TP
    * https://ideone.com/PJBk00
    * https://www.pbinfo.ro/probleme/385/sumtri
    * https://www.pbinfo.ro/probleme/386/sumtri1
    
    
-4. MSS - Maximum Subsequence Sum
+5. MSS - Maximum Subsequence Sum
    * https://ideone.com/3jZMWP
    
-5. Knapsack Problem.
+6. Knapsack Problem.
 
-6. Match Words.
+7. Match Words.
 
-7. Generating Combinations.
+8. Generating Combinations.
    * https://ideone.com/pRNbbZ
    
-8. Matrix Chain Multiplication
+9. Matrix Chain Multiplication
 
-9. Levenshtein Distance
+10. Levenshtein Distance
    * https://leetcode.com/problems/edit-distance/
    * https://cses.fi/problemset/task/1639/
    * https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
