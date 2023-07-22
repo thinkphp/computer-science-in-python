@@ -13,9 +13,11 @@ Longest Increasing Subsequence https://replit.com/@thinkphp/lis | https://ideone
    * https://www.pbinfo.ro/probleme/396/sclm
    * https://www.pbinfo.ro/probleme/1876/sclm2
    * https://www.pbinfo.ro/probleme/2086/sclmprime
+   * https://infoarena.ro/problema/scmax
 
 2. LCS - Longest Common Subsequence
    * https://leetcode.com/problems/longest-common-subsequence/
+   * https://infoarena.ro/problema/cmlsc
    * https://ideone.com/6EcvVr
    * https://ideone.com/sfThv1
    * https://ideone.com/kf02K5
