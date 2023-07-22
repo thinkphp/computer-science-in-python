@@ -8,7 +8,7 @@ Longest Increasing Subsequence https://replit.com/@thinkphp/lis | https://ideone
 
 ### Practice
 
-0. LIS - Longest Increasing Subsequence
+1. LIS - Longest Increasing Subsequence
    * https://cses.fi/problemset/task/1145
    * https://www.pbinfo.ro/probleme/396/sclm
    * https://www.pbinfo.ro/probleme/1876/sclm2
@@ -19,24 +19,25 @@ Longest Increasing Subsequence https://replit.com/@thinkphp/lis | https://ideone
    * https://ideone.com/sfThv1
    * https://ideone.com/kf02K5
    
-4. TP - Triangle Problem TP
+3. TP - Triangle Problem TP
    * https://ideone.com/PJBk00
    * https://www.pbinfo.ro/probleme/385/sumtri
    * https://www.pbinfo.ro/probleme/386/sumtri1
    
    
-5. MSS - Maximum Subsequence Sum
+4. MSS - Maximum Subsequence Sum
    * https://ideone.com/3jZMWP
    
-6. Knapsack Problem.
-7. Match Words.
+5. Knapsack Problem.
 
-8. Generating Combinations.
+6. Match Words.
+
+7. Generating Combinations.
    * https://ideone.com/pRNbbZ
    
-10. Matrix Chain Multiplication
+8. Matrix Chain Multiplication
 
-12. Levenshtein Distance
+9. Levenshtein Distance
     * https://ideone.com/xLh4mW
 
 ## Problem Set
