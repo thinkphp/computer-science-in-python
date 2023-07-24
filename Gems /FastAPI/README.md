@@ -1,5 +1,12 @@
 ### Fastapi 
 
+Uvicorn is a fast ASGI server, built on uvloop and httptools. It currently supports HTTP/1.1 and WebSockets.
+
+```
+sudo apt-get update
+sudo apt-get -y install uvicorn
+```
+
 ```
 pip install fastapi
 ```
