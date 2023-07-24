@@ -26,6 +26,10 @@ async def root():
     return {"message": "Hello World"}
 ```
 
+```
+Go to http://localhost:8000/
+```
+
 
 ```
 uvicorn main:app --reload
