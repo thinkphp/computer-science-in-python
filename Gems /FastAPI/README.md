@@ -34,6 +34,9 @@ uvicorn main:app --reload
 Go to http://localhost:8000/
 ```
 
+### References:
+
+https://realpython.com/fastapi-python-web-apis/
 
 
 
