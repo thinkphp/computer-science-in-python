@@ -27,13 +27,13 @@ async def root():
 ```
 
 ```
+uvicorn main:app --reload
+```
+
+```
 Go to http://localhost:8000/
 ```
 
-
-```
-uvicorn main:app --reload
-```
 
 
 
