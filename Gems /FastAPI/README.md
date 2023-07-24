@@ -37,6 +37,6 @@ Go to http://localhost:8000/
 ### References:
 
 https://realpython.com/fastapi-python-web-apis/
-
+https://www.turing.com/kb/fastapi-vs-flask-a-detailed-comparison#what-is-flask?
 
 
