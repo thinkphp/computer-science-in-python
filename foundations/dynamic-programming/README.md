@@ -1,10 +1,12 @@
 # Dynamic Programming
 
-Maximum Subsequence Sum https://ideone.com/poBEiN
+Edit Distance https://ideone.com/ftByJ1
 
 Longest Common Subsequence https://ideone.com/aoessx (Python 2.7.17 language)
 
 Longest Increasing Subsequence https://replit.com/@thinkphp/lis | https://ideone.com/agCtO9
+
+Maximum Subsequence Sum https://ideone.com/poBEiN
 
 ### Practice
 
