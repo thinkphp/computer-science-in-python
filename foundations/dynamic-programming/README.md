@@ -2,7 +2,7 @@
 
 Edit Distance https://ideone.com/ftByJ1 https://ideone.com/ygxmrf
 
-Longest Common Subsequence https://ideone.com/aoessx (Python 2.7.17 language)
+Longest Common Subsequence https://ideone.com/aoessx (Python 2.7) https://ideone.com/p82MFd  Python3
 
 Longest Increasing Subsequence https://replit.com/@thinkphp/lis | https://ideone.com/agCtO9
 
