@@ -17,10 +17,11 @@ END
 
 ### Samples:
 
-1. Map Coloring https://ideone.com/MNavY9 http://thinkphp.pythonanywhere.com/projects/colormap/5
-2. Knapsack Problem https://ideone.com/4xqQ8W
+1. Knapsack Problem https://ideone.com/4xqQ8W
+2. Map Coloring https://ideone.com/MNavY9 http://thinkphp.pythonanywhere.com/projects/colormap/5
 3. Payment Method Problem https://ideone.com/aaSgdm
-
+4. Salesman Problem https://ideone.com/FaCJms
+5. 
 ### Practice
 
 https://www.pbinfo.ro/probleme/categorii/24/metoda-greedy-probleme-diverse-cu-metoda-greedy
