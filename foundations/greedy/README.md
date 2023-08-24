@@ -21,7 +21,8 @@ END
 2. Map Coloring https://ideone.com/MNavY9 http://thinkphp.pythonanywhere.com/projects/colormap/5
 3. Payment Method Problem https://ideone.com/aaSgdm
 4. Salesman Problem https://ideone.com/FaCJms
-5. 
+5. Spectacles
+ 
 ### Practice
 
 https://www.pbinfo.ro/probleme/categorii/24/metoda-greedy-probleme-diverse-cu-metoda-greedy
