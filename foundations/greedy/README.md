@@ -26,3 +26,7 @@ END
 ### Practice
 
 https://www.pbinfo.ro/probleme/categorii/24/metoda-greedy-probleme-diverse-cu-metoda-greedy
+
+## References
+
+https://infoarena.ro/metoda-greedy-si-problema-fractionara-a-rucsacului
