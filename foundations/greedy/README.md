@@ -29,4 +29,7 @@ https://www.pbinfo.ro/probleme/categorii/24/metoda-greedy-probleme-diverse-cu-me
 
 ## References
 
+https://www.freecodecamp.org/news/greedy-algorithms/
+
+
 https://infoarena.ro/metoda-greedy-si-problema-fractionara-a-rucsacului
