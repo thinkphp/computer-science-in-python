@@ -34,15 +34,17 @@ Maximum Subsequence Sum https://ideone.com/poBEiN
    * https://ideone.com/3jZMWP
    
 6. Knapsack Problem.
+   * https://ideone.com/yPHMHc
+   * https://ideone.com/KAvvNn
+   
+8. Match Words.
 
-7. Match Words.
-
-8. Generating Combinations.
+9. Generating Combinations.
    * https://ideone.com/pRNbbZ
    
-9. Matrix Chain Multiplication
+10. Matrix Chain Multiplication
 
-10. Levenshtein Distance
+11. Levenshtein Distance
    * https://leetcode.com/problems/edit-distance/
    * https://cses.fi/problemset/task/1639/
    * https://www.pbinfo.ro/solutii/user/thinkphp/problema/3655/distanta-de-editare
