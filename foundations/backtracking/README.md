@@ -46,6 +46,10 @@ https://ideone.com/uc1KPA
 
 https://ideone.com/hcr7zc
 
+### Photo White/Black Problem
+
+https://ideone.com/d0zBhz
+
 ### Practice
 
 https://www.pbinfo.ro/probleme/categorii/28/backtracking-elemente-de-combinatorica
