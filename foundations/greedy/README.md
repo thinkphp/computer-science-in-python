@@ -15,7 +15,7 @@ while (not finished) execute
 END
 ```
 
-### Samples:
+### Classic Problems:
 
 1. Knapsack Problem https://ideone.com/4xqQ8W
 2. Map Coloring https://ideone.com/MNavY9 http://thinkphp.pythonanywhere.com/projects/colormap/5
@@ -33,3 +33,7 @@ https://www.freecodecamp.org/news/greedy-algorithms/
 
 
 https://infoarena.ro/metoda-greedy-si-problema-fractionara-a-rucsacului
+
+## Ideone
+
+https://ideone.com/thinkphp/greedy
