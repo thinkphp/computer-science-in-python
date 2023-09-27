@@ -23,6 +23,7 @@
 21. Finding Max Consecutive Subseq https://ideone.com/CMEmTK
 22. Finds the equation of the straight line through the points  ( 0 , 2 )  and  ( − 1 , 4 ) .https://ideone.com/Ggtpxm
 23. Check if 2 lines are parallel https://ideone.com/Dpa4FU
+24. Minimum Distance Point0 and a set of Points https://ideone.com/a31pXX
 
 ## CSES Problem Set:
 https://cses.fi/problemset/
