@@ -24,6 +24,7 @@
 22. Finds the equation of the straight line through the points  ( 0 , 2 )  and  ( − 1 , 4 ) .https://ideone.com/Ggtpxm
 23. Check if 2 lines are parallel https://ideone.com/Dpa4FU
 24. Minimum Distance Point0 and a set of Points https://ideone.com/a31pXX (version 2) https://ideone.com/sIrL5z (version 1)
+25. Check whether a Point belongs to a set of Circles https://ideone.com/kpHa9d
 
 ## CSES Problem Set:
 https://cses.fi/problemset/
