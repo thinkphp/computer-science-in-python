@@ -26,6 +26,7 @@
 24. Minimum Distance Point0 and a set of Points https://ideone.com/a31pXX (version 2) https://ideone.com/sIrL5z (version 1)
 25. Check whether a Point belongs to a set of Circles https://ideone.com/kpHa9d
 26. Check whether the position of a point P(x,y) to the Circle(O,R): inside, outside or on the circle https://ideone.com/myrecent
+27. Collinear Points https://ideone.com/l87qWg
 
 ## CSES Problem Set:
 https://cses.fi/problemset/
