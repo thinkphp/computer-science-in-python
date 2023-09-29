@@ -27,6 +27,7 @@
 25. Check whether a Point belongs to a set of Circles https://ideone.com/kpHa9d
 26. Check whether the position of a point P(x,y) to the Circle(O,R): inside, outside or on the circle https://ideone.com/myrecent
 27. Collinear Points https://ideone.com/l87qWg
+28. Count Primes Eratosthenes https://ideone.com/JdvnGf
 
 ## CSES Problem Set:
 https://cses.fi/problemset/
