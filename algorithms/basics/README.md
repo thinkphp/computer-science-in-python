@@ -28,6 +28,8 @@
 26. Check whether the position of a point P(x,y) to the Circle(O,R): inside, outside or on the circle https://ideone.com/myrecent
 27. Collinear Points https://ideone.com/l87qWg
 28. Count Primes Eratosthenes https://ideone.com/JdvnGf
+29. Sieve of Eratosthenes https://ideone.com/VufKCT
+30. Sieve of Eratosthenes based on BITWISE https://ideone.com/owhvhO
 
 ## CSES Problem Set:
 https://cses.fi/problemset/
