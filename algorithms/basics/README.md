@@ -31,7 +31,7 @@
 29. Sieve of Eratosthenes https://ideone.com/VufKCT
 30. Sieve of Eratosthenes based on BITWISE https://ideone.com/owhvhO
 31. Prime numbers https://ideone.com/4dnzJk
-32. PI Approximation rely on Leibniz and Monte Carlo Methods https://ideone.com/5lPpZl 
+32. PI Approximation rely on Leibniz (1  - 1/3 + 1/5 - 1/7 + 1/9 -...) and Monte Carlo Methods https://ideone.com/5lPpZl 
 
 ## CSES Problem Set:
 https://cses.fi/problemset/
