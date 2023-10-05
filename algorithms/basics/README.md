@@ -32,7 +32,7 @@
 30. Sieve of Eratosthenes based on BITWISE https://ideone.com/owhvhO
 31. Prime numbers https://ideone.com/4dnzJk
 32. Primes converted to Binary Numbers https://ideone.com/dO7nAy
-33. PI Approximation rely on Leibniz (1  - 1/3 + 1/5 - 1/7 + 1/9 -...) and Monte Carlo Methods https://ideone.com/5lPpZl 
+33. PI Approximation rely on Leibniz (1  - 1/3 + 1/5 - 1/7 + 1/9 -...) and Monte Carlo Methods https://ideone.com/5lPpZl https://ideone.com/xO2avG
 
 ## CSES Problem Set:
 https://cses.fi/problemset/
