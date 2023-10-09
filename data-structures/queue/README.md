@@ -2,7 +2,8 @@
 
 ## Examples:
 
-https://replit.com/@thinkphp/Queue-Data-Structure
+* https://replit.com/@thinkphp/Queue-Data-Structure
+* https://ideone.com/o7Am7g
 
 ## References:
 
