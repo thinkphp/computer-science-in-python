@@ -31,16 +31,24 @@ class Intreg:
     def __gt__(self, other):
 
         if self.a > other.a:
+            
             return "ob1 > ob2 (the ob1 is greater than ob2)"
+            
         elif self.a < other.a:
+            
             return "ob1 > ob2 (the ob2 is greater than ob1)"
+            
         else:
             return "ob1 == ob2 (the ob2 is equal with ob1)"
 
     def __eq__(self, other):
+        
         if self.a == other.a:
+            
            return "EGALE"
+            
         else:
+            
            return "Nu sunt egale"
 
 def main():
