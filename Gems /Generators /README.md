@@ -1,4 +1,4 @@
-### Generators
+# Generators
 
-## Examples
+### Examples
 https://ideone.com/R3nU17
