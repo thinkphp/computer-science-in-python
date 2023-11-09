@@ -2,7 +2,7 @@ import tkinter as tk
 
 # Create the main window
 window = tk.Tk()
-window.title("PythonExamples.org")
+window.title("Python App Title")
 window.geometry("300x200")
 
 label = tk.Label(window, text="Enter input value")
