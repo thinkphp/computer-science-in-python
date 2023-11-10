@@ -12,3 +12,11 @@ https://www.enjoyalgorithms.com/
 
 
 https://mcsp.wartburg.edu/zelle/python/
+
+# My Favourite Books:
+
+A Beginners Guide To Python 3 Programming - Springer
+
+Advanced Guide To Python 3 Programming - Springer 
+
+Python for Probability, Statistics, and Machine Learning - Springer
