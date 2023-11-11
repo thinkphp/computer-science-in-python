@@ -10,6 +10,8 @@ https://web.stanford.edu/class/cs97si/
 
 https://www.enjoyalgorithms.com/
 
+https://www.programming-books.io/essential/python/
+
 
 https://mcsp.wartburg.edu/zelle/python/
 
