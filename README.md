@@ -1,5 +1,9 @@
 # Computer Science in Python
+
 ## Preface
+
+Python functions are defined using def keywords:
+
 ```python
 def sign(x):
     if x > 0:
