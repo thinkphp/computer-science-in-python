@@ -28,7 +28,8 @@ hello('Fred', loud=True)  # Prints "HELLO, FRED!"
 ```
 
 ### Data Members
-```
+
+```python
 class Person:
   # data members
   salary = 23 
