@@ -1,6 +1,6 @@
 # Computer Science in Python
 
-## Preface
+### Preface
 
 Python functions are defined using def keywords:
 
@@ -27,7 +27,7 @@ hello('Bob') # Prints "Hello, Bob"
 hello('Fred', loud=True)  # Prints "HELLO, FRED!"
 ```
 
-## Data Members
+### Data Members
 ```
 class Person:
   # data members
@@ -46,7 +46,7 @@ print(p1)
 
 ```
 
-## Class
+### Class
 
 We can easily create the classes using class keyword in the following manner:
 
