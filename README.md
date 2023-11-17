@@ -35,8 +35,10 @@ https://www.enjoyalgorithms.com/
 
 https://www.programming-books.io/essential/python/
 
-
 https://mcsp.wartburg.edu/zelle/python/
+
+https://www.cfm.brown.edu/people/dobrush/am33/python/index.html
+
 
 # My Favourite Books:
 
