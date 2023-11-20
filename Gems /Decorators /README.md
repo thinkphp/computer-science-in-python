@@ -17,3 +17,9 @@ def say_hello(): # define the original function
      print("Python for Machine Learning!") # print a message
 say_hello() # call the decorated function
 ```
+
+## Examples
+
+https://ideone.com/Aqg875
+
+https://ideone.com/T7POPh
