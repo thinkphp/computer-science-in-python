@@ -87,7 +87,6 @@ https://mcsp.wartburg.edu/zelle/python/
 https://www.cfm.brown.edu/people/dobrush/am33/python/index.html
 
 
-
 # My Favourite Books:
 
 A Beginners Guide To Python 3 Programming - Springer
@@ -95,3 +94,10 @@ A Beginners Guide To Python 3 Programming - Springer
 Advanced Guide To Python 3 Programming - Springer 
 
 Python for Probability, Statistics, and Machine Learning - Springer
+
+
+## Contests Gym Warmup ProblemSet
+
+VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
+
+Codeforces Alpha Round 20 https://codeforces.com/contest/20
