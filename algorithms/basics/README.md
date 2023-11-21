@@ -38,8 +38,11 @@
 ## CSES Problem Set:
 https://cses.fi/problemset/
 
-## References
+## Practice
 
+Quadratic Equation https://codeforces.com/contest/20/problem/B
+
+## References
 
 <ul>
   <li>
