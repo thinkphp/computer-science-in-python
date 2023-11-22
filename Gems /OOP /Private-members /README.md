@@ -1,6 +1,6 @@
 ## Private variables
 
-```
+```python
 class Maths:
     
     def __init__(self, n):
