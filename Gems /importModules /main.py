@@ -1,12 +1,12 @@
 import stdio
-import algorithm
+import algorithms as algo
 
 def main():
     a = int(input("a="))
     b = int(input("b="))
-    answer = algorithm.euclid_rec(a,b)
+    answer = algo.euclid_rec(a,b)
     stdio.writeln("Euclid(a,b) = " + str( answer ))
-    algorithm.FirstDegreeEquation(a,b)
-    n = input("Dati un N = ")
-    stdio.writeln(algorithm.controlDigit(N))
+    algo.FirstDegreeEquation(a,b)
+    n = int(input("Dati un N = "))
+    stdio.writeln(algo.controlDigit(n) )
 main()
