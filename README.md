@@ -35,6 +35,8 @@ hello('Fred', loud=True)  # Prints "HELLO, FRED!"
 
 #### Numbers
 
+#### Boolean
+
 ### Exception handling
 
 #### Data Members
