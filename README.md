@@ -34,6 +34,15 @@ hello('Fred', loud=True)  # Prints "HELLO, FRED!"
 #### Strings
 
 ```python
+
+myDict = {"name": "John", "country": "Norway"}
+mySeparator = "TEST"
+
+x = mySeparator.join(myDict)
+
+print(x)
+
+
 # Python code to demonstrate working of 
 # strip(), lstrip() and rstrip() 
 str = "---python3---"
