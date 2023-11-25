@@ -1,6 +1,6 @@
 # Computer Science in Python
 
-### Preface
+#### Preface
 
 Python functions are defined using def keywords:
 
@@ -97,9 +97,9 @@ https://mcsp.wartburg.edu/zelle/python/
 https://www.cfm.brown.edu/people/dobrush/am33/python/index.html
 
 
-# My Favourite Books:
+## My Favourite Books:
 
-Introduction to Python. An interdisciplinary approach. Robert Sedgwick.
+An Introduction to Programming in Python. An interdisciplinary Approach. Robert Sedgwick.
 
 A Beginners Guide To Python 3 Programming - Springer
 
