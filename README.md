@@ -27,17 +27,17 @@ hello('Bob') # Prints "Hello, Bob"
 hello('Fred', loud=True)  # Prints "HELLO, FRED!"
 ```
 
-### Variables
+#### Variables
 
-### Data Types
+#### Data Types
 
-### Strings
+#### Strings
 
-### Numbers
+#### Numbers
 
-## Exception handling
+### Exception handling
 
-### Data Members
+#### Data Members
 
 ```python
 class Person:
@@ -98,6 +98,8 @@ https://www.cfm.brown.edu/people/dobrush/am33/python/index.html
 
 
 # My Favourite Books:
+
+Introduction to Python. An interdisciplinary approach. Robert Sedgwick.
 
 A Beginners Guide To Python 3 Programming - Springer
 
