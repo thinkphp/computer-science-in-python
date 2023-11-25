@@ -27,6 +27,17 @@ hello('Bob') # Prints "Hello, Bob"
 hello('Fred', loud=True)  # Prints "HELLO, FRED!"
 ```
 
+## Variables
+
+## Data Types
+
+## Strings
+
+## Numbers
+
+## Exception handling
+
+
 ### Data Members
 
 ```python
