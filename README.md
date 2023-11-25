@@ -35,13 +35,14 @@ hello('Fred', loud=True)  # Prints "HELLO, FRED!"
 
 ```python
 
-myDict = {"name": "John", "country": "Norway"}
-mySeparator = "TEST"
-
-x = mySeparator.join(myDict)
-
+txt = "I love apples, apple are my favorite fruit"
+x = txt.count("apple")
 print(x)
 
+myDict = {"name": "John", "country": "Norway"}
+mySeparator = "TEST"
+x = mySeparator.join(myDict)
+print(x)
 
 # Python code to demonstrate working of 
 # strip(), lstrip() and rstrip() 
