@@ -1,31 +1,39 @@
-from math import sqrt
+#Square Root
+def sqrt( n ):
  
+    x = n
+    y = 1.0
+    eps = 0.000001
  
-def equation(a, b, c):
+    while x - y > eps:
+        x = (x + y) / 2
+        y = n / x
+    return x
+ 
+# ax^2 + bx + c = 0
+def QuadraticEquation(a, b, c):
     if a != 0:
-        d = b ** 2 - 4 * a * c
-        if d > 0 and a > 0:
-            x1 = (-b - sqrt(d)) / (2 * a)
-            x2 = (-b + sqrt(d)) / (2 * a)
-            return 2, x1, x2
-        elif d > 0 and a < 0:
-            x1 = (-b + sqrt(d)) / (2 * a)
-            x2 = (-b - sqrt(d)) / (2 * a)
-            return 2, x1, x2
-        elif d == 0:
-            x = -b / (2 * a)
-            return 1, x
+        discriminant = b ** 2 - 4 * a * c
+        if discriminant > 0 and a > 0:
+            root1 = (-b - sqrt(discriminant))/(2*a)
+            root2 = (-b + sqrt(discriminant))/(2*a)
+            return 2, root1, root2
+        elif discriminant > 0 and a < 0:
+            root1 = (-b + sqrt(discriminant))/(2*a)
+            root2 = (-b - sqrt(discriminant))/(2*a)
+            return 2, root1, root2
+        elif discriminant == 0:
+            root1 = root2 = -b/(2*a)
+            return 1, root1
         else:
             return [0]
     else:
-        if b == c == 0:
+        if b == 0 and c == 0:
             return [-1]
         elif b != 0:
-            x = - c / b
-            return 1, x
+            root1 = -c/b
+            return [1, root1]
         else:
-            return [0]
- 
- 
+            return[0]
 A, B, C = [int(i) for i in input().split()]
-print(*equation(A, B, C), sep='\n')
+print(*QuadraticEquation(A, B, C), sep='\n')
