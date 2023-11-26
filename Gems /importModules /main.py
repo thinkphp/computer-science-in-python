@@ -1,12 +1,27 @@
 import stdio
 import algorithms as algo
+import mathematics as math
 
 def main():
-    a = int(input("a="))
-    b = int(input("b="))
-    answer = algo.euclid_rec(a,b)
-    stdio.writeln("Euclid(a,b) = " + str( answer ))
-    algo.FirstDegreeEquation(a,b)
-    n = int(input("Dati un N = "))
-    stdio.writeln(algo.controlDigit(n) )
+    stdio.writeln("Hello, Universe! stdio")
+    print("Hello, Universe! (print - built-in)")
+    a = 1111
+    b = 2222
+    print("Euclid(a,b)=>")
+    stdio.writeln("Euclid(a,b)=")
+    stdio.writeln(algo.euclid_it(a,b))
+    stdio.writeln(algo.euclid_rec(a,b))
+    print("Cifra de Control = ")
+    stdio.writeln(algo.ControlDigit1(a))
+    stdio.writeln(algo.ControlDigit2(b))
+    stdio.writeln(math.sqrt(2))
+    a = 4
+    b = 1
+    math.FirstDegreeEquation(a, b)
+    vec = [9,8,7,6,5,4,3,2,1,0]
+    algo.sorting(vec)
+    for i in vec:
+        stdio.writeln( i )
+    A, B, C = [int(i) for i in input().split()]
+    print(*math.QuadraticEquation(A, B, C), sep="\n")
 main()
