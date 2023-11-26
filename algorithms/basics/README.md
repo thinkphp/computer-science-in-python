@@ -1,4 +1,5 @@
 ## Basics Algorithms
+ 0. First Degree Equation https://ideone.com/ds7oqf
  0. Quadratic Equation https://ideone.com/C6eQZs
  1. Sets: Union, Difference, Intersection OOP Overload Operators https://ideone.com/e9weVD with classes: https://ideone.com/8gyyAq
  2. Generate all subsets of a set https://ideone.com/Rjmc5x | https://ideone.com/YgD0HW
