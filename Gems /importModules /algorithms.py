@@ -1,35 +1,41 @@
-def FirstDegreeEquation(a, b):
-
-    if a == 0:
-       if a == b:
-          print("The Equation has an infinity solutions.")
-       else:
-          print("The Equation has not solutions.")
-    else:
-       if b == 0:
-          print("x = 0")
-       else:
-          print("x = ", -b/a)
-
-
-
-def euclid_rec(a,b):
-
-    if b == 0:
-        return a
-    else:
-        return euclid_rec(b, a % b)
-
-def euclid_iter(a,b):
+# algoritmul lui Euclid iterative
+def euclid_it(a, b):
     while b:
         r = a % b
         a = b
         b = r
     return a
 
-def controlDigit(n):
-    
-    if n % 9 != 0:
-        return n % 9
+# algoritmul lui Euclid recursive
+def euclid_rec(a, b):
+    if b == 0:
+        return a
     else:
-        return 9;
+        return euclid_rec(b, a % b)
+
+# cifra de control version1
+def ControlDigit1( a ):
+    if a % 9 != 0:
+        return a % 9
+    else:
+        return 9
+# cifra de control version2
+def ControlDigit2( a ):
+
+    while a > 9:
+        sum = 0
+        while a > 0:
+            sum += a % 10
+            a //= 10
+        a = sum
+    return sum
+def swap(v,a,b):
+    aux = v[a]
+    v[a] = v[b]
+    v[b] = aux
+
+def sorting(v):
+    for i in range(0, len(v)-1):
+        for j in range(i + 1, len(v)):
+            if v[i] > v[j]:
+                swap(v, i, j)
