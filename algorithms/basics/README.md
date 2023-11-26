@@ -35,18 +35,25 @@
 33. PI Approximation rely on Leibniz (1  - 1/3 + 1/5 - 1/7 + 1/9 -...) and Monte Carlo Methods https://ideone.com/5lPpZl https://ideone.com/xO2avG
 34. Conjecture of Goldbach https://ideone.com/bXcb2h
 
-## CSES Problem Set:
-https://cses.fi/problemset/
-
 ## Practice
 
 https://infoarena.ro/arhiva-educationala
 
 https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
 
-Quadratic Equation https://codeforces.com/contest/20/problem/B https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem
+## CSES Problem Set
 
-Armstring Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+https://cses.fi/problemset/
+
+### Codeforces | HackerRank
+
+Quadratic Equation: 
+* https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
+* https://codeforces.com/contest/20/problem/B
+
+Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+
+Divisors of two integers https://codeforces.com/contest/1108/problem/B
 
 ## References
 
