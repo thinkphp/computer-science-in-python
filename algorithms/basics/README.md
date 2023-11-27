@@ -58,7 +58,7 @@ Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/ar
 
 Divisors of two integers https://codeforces.com/contest/1108/problem/B
 
-Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/
+Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
 
 ## References
 
