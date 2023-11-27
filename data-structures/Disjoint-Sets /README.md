@@ -1,1 +1,1 @@
-## Disjoint Sets, Union Find
+## Disjoint Sets Data Structure, Union Find
