@@ -116,3 +116,9 @@ Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-
   </li>
 </ul>
 
+Math References:
+
+https://brilliant.org/wiki/bezouts-identity/
+
+https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
+
