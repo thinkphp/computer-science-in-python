@@ -21,9 +21,6 @@
     <p><a href="https://web.stanford.edu/class/cs97si/">Introduction to Programming Contests</a></p>
   </li>
   <li>
-    <p><a href="https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list">The Definitive C++ Book Guide and List</a></p>
-  </li>
-  <li>
     <p><a href="https://www.quora.com/How-does-one-prepare-for-the-IOI-Aiming-for-gold/answer/Brian-Bi">How does one prepare for the IOI</a></p>
   </li>
   <li>
