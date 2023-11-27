@@ -138,7 +138,7 @@ Advanced Guide To Python 3 Programming - Springer
 Python for Probability, Statistics, and Machine Learning - Springer
 
 
-## Contests Programming
+## Programming Contests
 
 VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
 
