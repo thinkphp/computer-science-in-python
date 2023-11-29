@@ -6,7 +6,7 @@ def fta( n ):
             fm += 1
             n //= i
         if fm:
-            print(f"{i} * {fm}")
+            print(f"{i} ^ {fm}")
         i += 1
  
 def main():
