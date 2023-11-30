@@ -126,3 +126,4 @@ https://brilliant.org/wiki/bezouts-identity/
 
 https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
 
+https://artofproblemsolving.com/wiki/index.php/Goldbach_Conjecture
