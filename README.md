@@ -149,3 +149,5 @@ VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
 Codeforces Alpha Round 20 https://codeforces.com/contest/20
 
 Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/contest/630
+
+Codeforces Beta Round 82 (Div. 2) https://codeforces.com/contest/10
