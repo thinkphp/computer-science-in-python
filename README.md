@@ -151,3 +151,5 @@ Codeforces Alpha Round 20 https://codeforces.com/contest/20
 Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/contest/630
 
 Codeforces Beta Round 82 (Div. 2) https://codeforces.com/contest/106
+
+Codeforces Round 486 (Div. 3) https://codeforces.com/contest/988
