@@ -93,6 +93,7 @@ Equivalence relations give rise to partitions.
 ```
 
 Practice
+
 https://www.infoarena.ro/problema/disjoint
 
 https://codeforces.com/contest/988/problem/A
