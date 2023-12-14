@@ -3,3 +3,4 @@
 #### Practice
 
 https://codeforces.com/contest/988/problem/A
+https://cses.fi/problemset/task/1675
