@@ -92,6 +92,17 @@ Equivalence relations give rise to partitions.
 • This set of sets is a partition
 ```
 
+Practice
+https://www.infoarena.ro/problema/disjoint
+
+https://codeforces.com/contest/988/problem/A
+
+https://cses.fi/problemset/task/1675
+
+https://leetcode.com/problems/number-of-provinces/description/
+
+
+
 #### References:
 
 * https://www.codingninjas.com/studio/library/disjoint-set-unions-union-find-algorithm
@@ -105,10 +116,3 @@ Equivalence relations give rise to partitions.
 * https://www.pbinfo.ro/articole/6024/paduri-de-multimi-disjuncte
 
 
-#### Practice
-
-https://codeforces.com/contest/988/problem/A
-
-https://cses.fi/problemset/task/1675
-
-https://www.infoarena.ro/problema/disjoint
