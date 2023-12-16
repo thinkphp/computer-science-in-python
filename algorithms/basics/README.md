@@ -40,6 +40,8 @@
 34. PI Approximation rely on Leibniz (1  - 1/3 + 1/5 - 1/7 + 1/9 -...) and Monte Carlo Methods https://ideone.com/5lPpZl https://ideone.com/xO2avG
 35. Conjecture of Goldbach https://ideone.com/bXcb2h
 36. Flip Problem https://ideone.com/4Gfh49
+37. Minimalist Password Generator ____
+38. Choosing Laptop ____
 
 ## Practice
 
