@@ -41,7 +41,7 @@
 35. Conjecture of Goldbach https://ideone.com/bXcb2h
 36. Flip Problem https://ideone.com/4Gfh49
 37. Minimalist Password Generator ____
-38. Choosing Laptop ____
+38. Choosing Laptop https://ideone.com/8oRMUH
 
 ## Practice
 
