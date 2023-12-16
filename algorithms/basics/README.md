@@ -42,6 +42,7 @@
 36. Flip Problem https://ideone.com/4Gfh49
 37. Minimalist Password Generator ____
 38. Choosing Laptop https://ideone.com/8oRMUH
+39. Rook https://ideone.com/DMxGYe
 
 ## Practice
 
@@ -72,6 +73,8 @@ Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-
 Flip https://infoarena.ro/problema/flip
 
 Choose Laptop https://codeforces.com/contest/106/problem/B
+
+Rook https://codeforces.com/contest/1907/problem/A
 
 ## References
 
