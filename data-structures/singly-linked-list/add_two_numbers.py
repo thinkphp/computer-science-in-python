@@ -1,28 +1,44 @@
 # Definition for singly-linked list.
 class Node:
+    
     def __init__(self,val):
+        
         self.data = val
+        
         self.next = None
 
 def CreateList():
+    
     head = None
+    
     n = int(input("n="))
+    
     for _ in range(n):
+        
         node_value = int(input("node value = "))
+        
         new_node = Node(node_value)
+        
         new_node.next = head
+        
         head = new_node
+        
     return head
 
 def addition(list1, list2):
 
     dummyHead = Node(0)
+    
     p, q = list1, list2
+    
     curr = dummyHead
+    
     carry = 0
 
     while p or q:
+        
       x = p.data if p else 0
+        
       y = q.data if q else 0
 
       summa = x + y + carry
@@ -47,14 +63,19 @@ def addition(list1, list2):
 def reverse(head):
 
     curr = head
+    
     next2 = None
+    
     prev2 = None
 
     while curr is not None:
 
         next2 = curr.next
+        
         curr.next = prev2
+        
         prev2 = curr
+        
         curr = next2
 
     return prev2
@@ -69,15 +90,21 @@ def DisplayList(head, reverse_display = False):
         head = head.next;
 
 class main():
+    
     list1 = CreateList();
     list2 = CreateList();
+    
     answer = addition(list1, list2)
-    print("Number 1:")
+    
+    print("Number 1:")    
     DisplayList(list1, reverse_display = True)
+    
     print()
     print("Number 2:")
-    DisplayList(list2, reverse_display = True)
+    
+    DisplayList(list2, reverse_display = True)    
     print("\nSum = number1 + number2", end = "\n")
     DisplayList(answer, reverse_display = True)
+    
 if __name__ == '__main__':
     main()
