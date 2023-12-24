@@ -10,11 +10,12 @@ the simplest form, each node is composed of data and a reference(in other words 
 * https://ideone.com/M2DkNJ
 * https://ideone.com/6apz0h
 
-* https://ideone.com/oFZk9q (Create, Remove, Add After, Add Before, Reverse, Sorting)
+* Create, Remove, Add After, Add Before, Reverse, Sorting https://ideone.com/oFZk9q
 * https://ideone.com/thinkphp/linkedlist
 * https://ideone.com/RdLnGW
 * https://ideone.com/DqIkSZ
-* https://ideone.com/4VNrKY (Create and Reverse)
+* Create and Reverse https://ideone.com/4VNrKY 
+
 
 ### Problem Set
 
