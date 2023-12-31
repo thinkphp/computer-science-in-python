@@ -40,9 +40,11 @@ Largest Num Formed https://ideone.com/x7uXeG
 
 Remove Largest Prime https://ideone.com/QxjP2M
 
-Create Even Odd lists https://ideone.com/9C2xRf
+Create Even Odd lists https://ideone.com/z9V06P
 
-Remove Negatives https://ideone.com/B6wSSn
+Remove Negatives https://ideone.com/le0T5U
+
+Insertion Sort https://ideone.com/DWWM2P
 
 
 ## References 
