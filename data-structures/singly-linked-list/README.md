@@ -38,7 +38,7 @@ Circular Permutation https://ideone.com/FqyzbM
 
 Largest Num Formed https://ideone.com/WKbWuz
 
-Remove Largest Prime https://ideone.com/QxjP2M
+Remove Largest Prime https://ideone.com/pf4Lpk
 
 Create Even Odd lists https://ideone.com/z9V06P
 
