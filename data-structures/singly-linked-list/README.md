@@ -5,16 +5,6 @@ In Computer Science, a linked list is a linear collection of data elements, call
 by means of a pointer. It's a data structure consisting of a group of nodes which together represent a sequence. under
 the simplest form, each node is composed of data and a reference(in other words a link) to the next node in the sequence.
 
-## Implementations:
-
-* Create and Reverse https://ideone.com/4VNrKY
-* https://ideone.com/M2DkNJ
-* https://ideone.com/6apz0h
-* https://ideone.com/RdLnGW
-* https://ideone.com/DqIkSZ
-
-
-
 ### Ideone
 * https://ideone.com/thinkphp/linkedlist
 
