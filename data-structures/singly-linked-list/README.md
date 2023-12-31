@@ -36,7 +36,7 @@ https://www.pbinfo.ro/probleme/categorii/111/liste-alocate-dinamic-operatii-cu-l
 
 Circular Permutation https://ideone.com/FqyzbM
 
-Largest Num Formed https://ideone.com/x7uXeG
+Largest Num Formed https://ideone.com/WKbWuz
 
 Remove Largest Prime https://ideone.com/QxjP2M
 
