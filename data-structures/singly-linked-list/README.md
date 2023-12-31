@@ -7,11 +7,7 @@ the simplest form, each node is composed of data and a reference(in other words 
 
 ## Implementations:
 
-* Create a list, split into Odd, Even, Negatives https://ideone.com/z9V06P
-* Insertion Sort https://ideone.com/DWWM2P
-* Remove Negative Elements https://ideone.com/le0T5U
 * Create and Reverse https://ideone.com/4VNrKY
-
 * https://ideone.com/M2DkNJ
 * https://ideone.com/6apz0h
 * https://ideone.com/RdLnGW
