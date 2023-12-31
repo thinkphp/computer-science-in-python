@@ -20,6 +20,8 @@ https://www.pbinfo.ro/probleme/categorii/111/liste-alocate-dinamic-operatii-cu-l
 
 ### Ideone
 
+Sum of Two Big Numbers https://ideone.com/XccEFe
+
 Circular Permutation https://ideone.com/FqyzbM
 
 Largest Num Formed https://ideone.com/WKbWuz
@@ -31,10 +33,6 @@ Create Even Odd lists https://ideone.com/z9V06P
 Remove Negatives https://ideone.com/le0T5U
 
 Insertion Sort https://ideone.com/DWWM2P
-
-Create, Remove, Add After, Add Before, Reverse, Sorting https://ideone.com/oFZk9q
-
-Sum of Two Big Numbers https://ideone.com/XccEFe
 
 
 ## References 
