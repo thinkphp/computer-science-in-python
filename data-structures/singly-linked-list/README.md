@@ -36,6 +36,8 @@ Remove primes https://ideone.com/UI2rln
 
 Insertion Sort https://ideone.com/DWWM2P
 
+Merge Two Lists https://ideone.com/Zw0YJh
+
 
 ## References 
 
