@@ -8,4 +8,6 @@ Am abstract way of representing connectivity using nodes and edges. We will labe
 
 ### Graphs Traversals
 
+### References
 
+https://web.stanford.edu/class/cs97si/06-basic-graph-algorithms.pdf
