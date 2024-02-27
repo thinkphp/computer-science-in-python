@@ -137,6 +137,9 @@ Rook https://codeforces.com/contest/1907/problem/A
 
 Math References:
 
+https://github.com/ImperialCollegeLondon/Mathematical-Computing-Demo/blob/master/M1C%20(Python)/M1C-Number-Theory/.ipynb_checkpoints/Python%20Number%20Theory%2003%20-%20Extended%20Euclidean%20Algorithm-checkpoint.ipynb
+
+
 https://brilliant.org/wiki/bezouts-identity/
 
 https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
