@@ -11,7 +11,7 @@ a = 8
 
 Modul de reprezentare (in cod complementar) va fi prezentat in cele ce urmeaza, folosind reprezentarea pe 8 biti, valabila pentru tipul char din C/C++/JAVA/Python.
 
-
+```
 _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _
 
@@ -21,6 +21,7 @@ bit de semn:
 
 - 0 daca numarul este pozitiv
 - 1 daca numarul este negativ
+```
 
 Se observa ca numerotarea pozitiilor se face de la dreapta la stanga (de la 0 la 7),pozitia 7 fiind rezervata pentru bitul de semn (0 pentru numerele pozitive si 1 pentru numerele negative). REzulta ca doar 7 biti (pozitiile 0 - 6) se folosesc pentru reprezentarea valorii absolute a numarului. (-20 => valoarea absoluta este 20).
 
