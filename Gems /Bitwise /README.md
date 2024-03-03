@@ -97,6 +97,7 @@ Nu in acelasi mod se face reprezentarea numerelor intregi negative. Pentru aceas
 
 3. se aduna 1 (adunarea in baza 2) la valoarea obtinuta.
 
+```
 
 1 + 1 = 0 transport 1
 
@@ -112,6 +113,7 @@ Nu in acelasi mod se face reprezentarea numerelor intregi negative. Pentru aceas
 =
 71  (transport 1)
 
+```
 
 Exemplu: -8
 
