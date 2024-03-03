@@ -28,11 +28,15 @@ Se observa ca numerotarea pozitiilor se face de la dreapta la stanga (de la 0 la
 Numerele intregi pozitive se convertesc in baza 2 si se face complementarea cu cifre 0 nesemnificative pana la completarea celor 7 biti.
 
 Spre exemplu luam numarul 8 in baza 10. Si dorim sa-l convertim in baza 2.
-                
-8:2 = 4 rest 0 |
-4:2 = 2 rest 0 |
-2:2 = 1 rest 0 |
-1:2 = 0 rest 1 | 
+```
+
+               /\ 
+8:2 = 4 rest 0 ||
+4:2 = 2 rest 0 ||
+2:2 = 1 rest 0 ||
+1:2 = 0 rest 1 ||
+
+```
 
 8(in baza 10) = 1000(in baza 2)
 
