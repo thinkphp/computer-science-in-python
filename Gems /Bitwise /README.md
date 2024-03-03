@@ -59,6 +59,7 @@ Spre exemplu luam numarul 8 in baza 10. Si dorim sa-l convertim in baza 2.
 
 Sa determinam forma de reprezentare a numarului intreg 5.
 
+```
 5 in baza 10 = 101 in baza 2
 
 5(10) = 101(2)
@@ -87,6 +88,7 @@ pe 16 biti (2octeti sau 2 bytes):
 
 -8(2) = ?
 
+```
 Nu in acelasi mod se face reprezentarea numerelor intregi negative. Pentru aceasta este necesara efectuarea urmatorilor pasi:
 
 1.determinarea reprezentarii interne a numarului ce reprezinta  valoarea absoluta a numarului initial. Aceasta are bitul de semn egal cu zero.
