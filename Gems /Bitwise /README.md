@@ -299,12 +299,12 @@ se pierd , iar ultimii se completeaza cu zero.
 14 = 0000 1110 >> 2 
 0000 0011 =>3 in baza 10
 
-Problema:
-
+#### Problema:
 
 Realizati un program care determina numarul de cifre de 1 din reprezentarea binara
 a unul numar natural nenul n mai mic decat 100000000
 
+```
 
 8 =  00001000 (2)
 
@@ -323,9 +323,10 @@ counter = 0
 for i de la 0 la 32 
 
     daca intalnim un bit de 1 din reprezentarea sa , atunci contorizam variabila counter
+
     counter = counter + 1
 
-
+```
     
 
 
