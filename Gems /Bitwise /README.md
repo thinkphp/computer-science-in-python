@@ -151,7 +151,7 @@ Pe 16 biti:
 0111 1111 1111 1111 = ? in baza 10
 
 
-Operatori la nivel de bit:
+### Operatori la nivel de bit:
 
 Operatorii pe biti se pot aplica datelor ce fac parte din tipurile intregi. Operatiile se efectueaza asupra bitilor din reprezentarea numerelor.
 
