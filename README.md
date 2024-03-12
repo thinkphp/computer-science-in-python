@@ -130,6 +130,8 @@ https://mcsp.wartburg.edu/zelle/python/
 
 https://www.cfm.brown.edu/people/dobrush/am33/python/index.html
 
+https://github.com/rtoal/ple/tree/main/python
+
 
 ## My Favourite Books:
 
