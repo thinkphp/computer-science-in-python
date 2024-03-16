@@ -41,9 +41,11 @@
 35. Conjecture of Goldbach https://ideone.com/bXcb2h
 36. Flip Problem https://ideone.com/4Gfh49
 37. Minimalist Password Generator ____
-38. Choosing Laptop https://ideone.com/8oRMUH
-39. Rook https://ideone.com/DMxGYe
-40. Sum of Two Big Numbers https://ideone.com/XWiP6G
+38. Sum of Two Big Numbers https://ideone.com/XWiP6G
+39. Choosing Laptop https://ideone.com/8oRMUH
+40. Rook https://ideone.com/DMxGYe
+41. 
+
 
 ## Practice
 
@@ -78,6 +80,8 @@ Flip https://infoarena.ro/problema/flip
 Choose Laptop https://codeforces.com/contest/106/problem/B
 
 Rook https://codeforces.com/contest/1907/problem/A
+
+Teams Forming https://codeforces.com/contest/1092/problem/B
 
 ## References
 
