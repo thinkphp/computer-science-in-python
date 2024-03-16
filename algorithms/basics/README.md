@@ -38,13 +38,14 @@
 32. Prime numbers https://ideone.com/4dnzJk
 33. Primes converted to Binary Numbers https://ideone.com/dO7nAy
 34. PI Approximation rely on Leibniz (1  - 1/3 + 1/5 - 1/7 + 1/9 -...) and Monte Carlo Methods https://ideone.com/5lPpZl https://ideone.com/xO2avG
-35. Conjecture of Goldbach https://ideone.com/bXcb2h
-36. Flip Problem https://ideone.com/4Gfh49
-37. Minimalist Password Generator ____
-38. Sum of Two Big Numbers https://ideone.com/XWiP6G
-39. Choosing Laptop https://ideone.com/8oRMUH
-40. Rook https://ideone.com/DMxGYe
-41. Teams Forming https://ideone.com/PSs4Un
+35. Euler's number
+36. Conjecture of Goldbach https://ideone.com/bXcb2h
+37. Flip Problem https://ideone.com/4Gfh49
+38. Minimalist Password Generator ____
+39. Sum of Two Big Numbers https://ideone.com/XWiP6G
+40. Choosing Laptop https://ideone.com/8oRMUH
+41. Rook https://ideone.com/DMxGYe
+42. Teams Forming https://ideone.com/PSs4Un
 
 
 ## Practice
