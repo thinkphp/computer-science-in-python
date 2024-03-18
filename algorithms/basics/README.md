@@ -78,6 +78,8 @@ Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-
 
 Flip https://infoarena.ro/problema/flip
 
+Perfect Squares https://codeforces.com/contest/914/problem/A
+
 Choose Laptop https://codeforces.com/contest/106/problem/B
 
 Rook https://codeforces.com/contest/1907/problem/A
