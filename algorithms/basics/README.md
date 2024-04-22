@@ -1,6 +1,6 @@
 ## Basics Algorithms
- 0. Euclid's Algorithm __
- 0. Extended Euclid's Algorithm
+ 0. Euclid's Algorithm ___
+ 0. Extended Euclid's Algorithm https://ideone.com/t7D6sD
  0. First Degree Equation ax + b = 0 https://ideone.com/ds7oqf
  0. Quadratic Equation ax^2 + bx + c = 0; https://ideone.com/7UKwDM
  0. Nature Roots Quadratic Equation ax^2 + bx + c = 0; S = -b/a P = c/a https://ideone.com/C6eQZs https://ideone.com/ekm6kL
