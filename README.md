@@ -113,26 +113,6 @@ g = Greeter('Fred')  # Construct an instance of the Greeter class
 g.greet()            # Call an instance method; prints "Hello, Fred"
 g.greet(loud=True)   # Call an instance method; prints "HELLO, FRED!"
 ```
-
-### References
-
-https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/
-
-https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm
-
-https://web.stanford.edu/class/cs97si/
-
-https://www.enjoyalgorithms.com/
-
-https://www.programming-books.io/essential/python/
-
-https://mcsp.wartburg.edu/zelle/python/
-
-https://www.cfm.brown.edu/people/dobrush/am33/python/index.html
-
-https://github.com/rtoal/ple/tree/main/python
-
-
 ## My Favourite Books:
 
 An Introduction to Programming in Python. An interdisciplinary Approach. Robert Sedgwick.
@@ -155,3 +135,28 @@ Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/con
 Codeforces Beta Round 82 (Div. 2) https://codeforces.com/contest/106
 
 Codeforces Round 486 (Div. 3) https://codeforces.com/contest/988
+
+Codeforces Round 907 (Div. 2) https://codeforces.com/contest/1891
+
+Codeforces Round 928 (Div. 4) https://codeforces.com/contest/1926
+
+
+### References
+
+https://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844/
+
+https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm
+
+https://web.stanford.edu/class/cs97si/
+
+https://www.enjoyalgorithms.com/
+
+https://www.programming-books.io/essential/python/
+
+https://mcsp.wartburg.edu/zelle/python/
+
+https://www.cfm.brown.edu/people/dobrush/am33/python/index.html
+
+https://github.com/rtoal/ple/tree/main/python
+
+
