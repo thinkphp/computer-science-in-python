@@ -113,16 +113,6 @@ g = Greeter('Fred')  # Construct an instance of the Greeter class
 g.greet()            # Call an instance method; prints "Hello, Fred"
 g.greet(loud=True)   # Call an instance method; prints "HELLO, FRED!"
 ```
-## My Favourite Books:
-
-An Introduction to Programming in Python. An interdisciplinary Approach. Robert Sedgwick.
-
-A Beginners Guide To Python 3 Programming - Springer
-
-Advanced Guide To Python 3 Programming - Springer 
-
-Python for Probability, Statistics, and Machine Learning - Springer
-
 
 #### Programming Contests
 
@@ -175,4 +165,14 @@ https://www.cfm.brown.edu/people/dobrush/am33/python/index.html
 
 https://github.com/rtoal/ple/tree/main/python
 
+
+#### My Favourite Books:
+
+An Introduction to Programming in Python. An interdisciplinary Approach. Robert Sedgwick.
+
+A Beginners Guide To Python 3 Programming - Springer
+
+Advanced Guide To Python 3 Programming - Springer 
+
+Python for Probability, Statistics, and Machine Learning - Springer
 
