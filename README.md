@@ -124,22 +124,38 @@ Advanced Guide To Python 3 Programming - Springer
 Python for Probability, Statistics, and Machine Learning - Springer
 
 
-## Programming Contests
-
-VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
-
-Codeforces Alpha Round 20 https://codeforces.com/contest/20
+#### Programming Contests
 
 Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/contest/630
 
-Codeforces Beta Round 82 (Div. 2) https://codeforces.com/contest/106
+VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
 
-Codeforces Round 486 (Div. 3) https://codeforces.com/contest/988
+Codeforces Alpha Round 20 https://codeforces.com/contest/20 (A. BerOS file system1, B. Equation, C. Dijkstra?)
+
+Codeforces Round 948 (Div. 2) https://codeforces.com/contest/1977
+
+Codeforces Beta Round 82 (Div. 2) https://codeforces.com/contest/106
 
 Codeforces Round 907 (Div. 2) https://codeforces.com/contest/1891
 
+Codeforces Round 134 (Div. 2) https://codeforces.com/contest/218
+
+Codeforces Round 587 (Div. 3) https://codeforces.com/contest/1216
+
+Codeforces Round 486 (Div. 3) https://codeforces.com/contest/988
+
+Codeforces Round 479 (Div. 3) https://codeforces.com/contest/977
+
+Codeforces Round 481 (Div. 3) https://codeforces.com/contest/978
+
 Codeforces Round 928 (Div. 4) https://codeforces.com/contest/1926
 
+Codeforces Round 640 (Div. 4) https://codeforces.com/contest/1352
+
+Codeforces Round 784 (Div. 4) https://codeforces.com/contest/1669
+
+### EDU Codeforces
+https://codeforces.com/edu/courses
 
 ### References
 
