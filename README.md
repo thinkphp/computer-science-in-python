@@ -122,6 +122,28 @@ VK Cup 2015 - Wild Card Round 1 https://codeforces.com/contest/530
 
 Codeforces Alpha Round 20 https://codeforces.com/contest/20 (A. BerOS file system1, B. Equation, C. Dijkstra?)
 
+April Fools Day Contest 2024 https://codeforces.com/contest/1952
+
+#### Div. 1
+
+Codeforces Round 808 (Div. 1) https://codeforces.com/contest/1707
+
+#### Div. 2
+
+https://codeforces.com/contest/365
+
+https://codeforces.com/contest/1944
+
+Codeforces Round 726 (Div. 2) https://codeforces.com/contest/1537
+
+Codeforces Round 926 (Div. 2) https://codeforces.com/contest/1929
+
+Codeforces Beta Round 9 (Div. 2) https://codeforces.com/contest/9
+
+Educational Codeforces Round 161 (Div. 2) https://codeforces.com/contest/1922
+
+Codeforces Beta Round 91 (Div. 2) https://codeforces.com/contest/122
+
 Codeforces Round 948 (Div. 2) https://codeforces.com/contest/1977
 
 Codeforces Beta Round 82 (Div. 2) https://codeforces.com/contest/106
@@ -129,6 +151,10 @@ Codeforces Beta Round 82 (Div. 2) https://codeforces.com/contest/106
 Codeforces Round 907 (Div. 2) https://codeforces.com/contest/1891
 
 Codeforces Round 134 (Div. 2) https://codeforces.com/contest/218
+
+#### Div.3 
+
+Codeforces Round 920 (Div. 3) https://codeforces.com/contest/1921
 
 Codeforces Round 587 (Div. 3) https://codeforces.com/contest/1216
 
@@ -138,14 +164,55 @@ Codeforces Round 479 (Div. 3) https://codeforces.com/contest/977
 
 Codeforces Round 481 (Div. 3) https://codeforces.com/contest/978
 
+#### Div. 4
+
+Codeforces Round 799 (Div. 4) https://codeforces.com/contest/1692
+
 Codeforces Round 928 (Div. 4) https://codeforces.com/contest/1926
 
 Codeforces Round 640 (Div. 4) https://codeforces.com/contest/1352
 
 Codeforces Round 784 (Div. 4) https://codeforces.com/contest/1669
 
+Codeforces Round 835 (Div. 4) https://codeforces.com/contest/1760
+
+Codeforces Round 849 (Div. 4) https://codeforces.com/contest/1791
+
+Codeforces Round 859 (Div. 4) https://codeforces.com/contest/1807
+
+Codeforces Round 827 (Div. 4) https://codeforces.com/contest/1742
+
+Codeforces Round 817 (Div. 4) https://codeforces.com/contest/1722
+
+Codeforces Round 790 (Div. 4) https://codeforces.com/contest/1676
+
+
+
+####  Happy New Year
+
+Good Bye 2014 https://codeforces.com/contest/500 Editorial: https://codeforces.com/blog/entry/15513
+
+Good Bye 2015 https://codeforces.com/contest/611 Editorial: https://codeforces.com/blog/entry/22441
+
+Good Bye 2016 https://codeforces.com/contest/611 Editorial: https://codeforces.com/blog/entry/49412
+
+Good Bye 2017 https://codeforces.com/contest/908 Editorial: https://codeforces.com/blog/entry/56713 https://codeforces.com/blog/entry/56848
+
+Good Bye 2018 https://codeforces.com/contest/1091 Editorial: https://codeforces.com/blog/entry/64196
+
+Good Bye 2019 https://codeforces.com/contest/1270 Editorial: https://codeforces.com/blog/entry/72611
+                                                  
+Good Bye 2020 https://codeforces.com/contest/1466 Editorial: https://codeforces.com/blog/entry/86126
+
+Good Bye 2021 https://codeforces.com/contest/1616  Editorial: https://codeforces.com/blog/entry/98501
+
+Good Bye 2022 https://codeforces.com/contest/1770 Editorial: https://codeforces.com/blog/entry/110754
+
+Good Bye 2023 https://codeforces.com/contest/1916 Editorial: https://codeforces.com/blog/entry/124138 
+
 ### EDU Codeforces
 https://codeforces.com/edu/courses
+
 
 ### References
 
