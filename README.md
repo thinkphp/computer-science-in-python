@@ -114,7 +114,13 @@ g.greet()            # Call an instance method; prints "Hello, Fred"
 g.greet(loud=True)   # Call an instance method; prints "HELLO, FRED!"
 ```
 
-#### Programming Contests
+### Programming Contests
+
+#### Educational Codeforces 
+
+Round  1 https://codeforces.com/contest/598
+
+Round 26 https://codeforces.com/contest/837
 
 Experimental Educational Round: VolBIT Formulas Blitz https://codeforces.com/contest/630
 
@@ -153,6 +159,7 @@ Codeforces Round 907 (Div. 2) https://codeforces.com/contest/1891
 Codeforces Round 134 (Div. 2) https://codeforces.com/contest/218
 
 #### Div.3 
+Codeforces Round 946 (Div. 3) https://codeforces.com/contest/1974
 
 Codeforces Round 920 (Div. 3) https://codeforces.com/contest/1921
 
@@ -163,6 +170,8 @@ Codeforces Round 486 (Div. 3) https://codeforces.com/contest/988
 Codeforces Round 479 (Div. 3) https://codeforces.com/contest/977
 
 Codeforces Round 481 (Div. 3) https://codeforces.com/contest/978
+
+Codeforces Round 929 (Div. 3) https://codeforces.com/contest/1933
 
 #### Div. 4
 
@@ -186,6 +195,7 @@ Codeforces Round 817 (Div. 4) https://codeforces.com/contest/1722
 
 Codeforces Round 790 (Div. 4) https://codeforces.com/contest/1676
 
+Codeforces Round 898 (Div. 4) https://codeforces.com/contest/1873
 
 
 ####  Happy New Year
@@ -213,6 +223,35 @@ Good Bye 2023 https://codeforces.com/contest/1916 Editorial: https://codeforces.
 ### EDU Codeforces
 https://codeforces.com/edu/courses
 
+
+### Baltic Olympiad in Informatics 2020
+Day 1: https://codeforces.com/contest/1386
+
+Day 2: https://codeforces.com/contest/1387
+
+### AtCoder
+https://atcoder.jp/contests/abc272/tasks
+
+https://atcoder.jp/contests/abc356/tasks
+
+https://atcoder.jp/contests/abc354/tasks
+
+https://atcoder.jp/contests/abc349/tasks
+
+https://atcoder.jp/contests/abc224/tasks
+
+
+### Math:
+
+* https://brilliant.org/wiki/bezouts-identity/
+* https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
+* https://codeforces.com/blog/entry/97623
+* https://www.cuemath.com/algebra/nature-of-roots/#What-Do-You-Mean-By-Nature-of-Roots
+* https://www.cuemath.com/geometry/x-intercept/
+* https://brilliant.org/wiki/vietas-formula/#vietas-formula-problem-solving-easy
+* https://artofproblemsolving.com/wiki/index.php/Euclidean_algorithm
+* https://artofproblemsolving.com/wiki/index.php/Goldbach_Conjecture
+* https://artofproblemsolving.com/wiki/index.php/Math_books
 
 ### References
 
