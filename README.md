@@ -113,7 +113,6 @@ g = Greeter('Fred')  # Construct an instance of the Greeter class
 g.greet()            # Call an instance method; prints "Hello, Fred"
 g.greet(loud=True)   # Call an instance method; prints "HELLO, FRED!"
 ```
-
 ### Programming Contests
 
 #### Educational Codeforces 
@@ -136,9 +135,9 @@ Codeforces Round 808 (Div. 1) https://codeforces.com/contest/1707
 
 #### Div. 2
 
-https://codeforces.com/contest/365
+Codeforces Round 213 (Div. 2) https://codeforces.com/contest/365
 
-https://codeforces.com/contest/1944
+Codeforces Round 934 (Div. 2) https://codeforces.com/contest/1944
 
 Codeforces Round 726 (Div. 2) https://codeforces.com/contest/1537
 
@@ -172,6 +171,8 @@ Codeforces Round 479 (Div. 3) https://codeforces.com/contest/977
 Codeforces Round 481 (Div. 3) https://codeforces.com/contest/978
 
 Codeforces Round 929 (Div. 3) https://codeforces.com/contest/1933
+
+Codeforces Round 923 (Div. 3) https://codeforces.com/contest/1927
 
 #### Div. 4
 
@@ -239,6 +240,8 @@ https://atcoder.jp/contests/abc354/tasks
 https://atcoder.jp/contests/abc349/tasks
 
 https://atcoder.jp/contests/abc224/tasks
+
+
 
 
 ### Math:
