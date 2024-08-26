@@ -47,6 +47,8 @@
 41. Rook https://ideone.com/DMxGYe
 42. Teams Forming https://ideone.com/PSs4Un
 
+43. Password https://codeforces.com/contest/1743/problem/A
+
 
 ## Practice
 
