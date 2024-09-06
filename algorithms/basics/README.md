@@ -49,50 +49,181 @@
 
 43. Password https://codeforces.com/contest/1743/problem/A
 
+## Problem Set
 
-## Practice
+https://cses.fi/problemset/list/
 
 https://infoarena.ro/arhiva-educationala
 
 https://www.pbinfo.ro/probleme/categorii/1/algoritmi-elementari
 
-https://www.geeksforgeeks.org/explore?page=1&difficulty=School&sortBy=submissions
+https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions
 
-## CSES Problem Set
 
-https://cses.fi/problemset/
+### Codeforces | HackerRank | Leetcode | Infoarena | AtCoder | Spoj | UVa | CSES
 
-### Codeforces | HackerRank | LeetCode
+1) GCD https://codeforces.com/contest/1933/problem/D
 
-First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
+2) First Degree Equation: https://leetcode.com/problems/solve-the-equation/description/
 
-Quadratic Equation: 
-* https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
+3) Quadratic Equation: https://www.hackerrank.com/contests/lpdwarka2016/challenges/revising-quadratic-equations/problem 
 * https://codeforces.com/contest/20/problem/B
 * https://codeforces.com/contest/630/problem/N
 * https://codeforces.com/problemset/problem/531/A
 
-Exponentiation https://infoarena.ro/problema/lgput https://cses.fi/problemset/task/1095/ 
+5) Cele mai apropiate puncte din plan https://www.infoarena.ro/problema/cmap
 
-Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
+6) Exponentiation https://infoarena.ro/problema/lgput https://cses.fi/problemset/task/1095/
 
-Divisors of two integers https://codeforces.com/contest/1108/problem/B
+7) Armstrong Number: https://www.hackerrank.com/contests/lpdwarka2016/challenges/armstrong-numbers-2/problem
 
-Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
+8) Divisors of two integers https://codeforces.com/contest/1108/problem/B
 
-Flip https://infoarena.ro/problema/flip
+9) Check If It Is a Good Array https://leetcode.com/problems/check-if-it-is-a-good-array/description/ (Bezout's Identity)
 
-Perfect Squares https://codeforces.com/contest/914/problem/A
+10) Triangle https://codeforces.com/contest/6/problem/A
 
-Choose Laptop https://codeforces.com/contest/106/problem/B
+11) Flip https://www.infoarena.ro/problema/flip
 
-Rook https://codeforces.com/contest/1907/problem/A
+12) Choose Laptop https://codeforces.com/contest/106/problem/B
 
-Teams Forming https://codeforces.com/contest/1092/problem/B
+13) Rook https://codeforces.com/contest/1907/problem/A
 
-4Sum https://leetcode.com/problems/4sum/description/
+14) Love Story https://codeforces.com/problemset/problem/1829/A
 
-## References
+15) Teams Forming https://codeforces.com/contest/1092/problem/B
+
+16) Sum https://codeforces.com/contest/1742/problem/A
+
+17) Increasing https://codeforces.com/contest/1742/problem/B
+
+18) Frequent Numbers https://csacademy.com/contest/archive/task/frequent-numbers
+
+19) Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/description/
+
+20)  Codecraft III https://codeforces.com/contest/45/problem/A
+
+21)  Noldbach problem https://codeforces.com/contest/17/problem/A
+
+22)  Make it beautiful https://codeforces.com/contest/1783/problem/A
+
+22)  Next Test https://codeforces.com/contest/27/problem/A
+
+23)  Chess for three https://codeforces.com/contest/1973/problem/A
+
+24)  Line https://codeforces.com/contest/7/problem/C
+
+25)  4Sum https://leetcode.com/problems/4sum/description/
+
+26)  Marathon https://codeforces.com/contest/1692/problem/A
+
+27)  Text Volume https://codeforces.com/contest/837/problem/A
+
+28)  Zero Sum https://atcoder.jp/contests/abc349/tasks/abc349_a
+
+29) Verify password https://codeforces.com/contest/1976/problem/A
+
+30)  Arbori binari de cautare echilibrati https://www.infoarena.ro/problema/abce
+
+31)  Job Interview https://codeforces.com/contest/1976/problem/C
+
+32)  String Task https://codeforces.com/contest/118/problem/A
+
+33)  Word https://codeforces.com/contest/59/problem/A
+
+34)  Array Coloring https://codeforces.com/contest/1857/problem/A
+
+35)  Password check https://codeforces.com/contest/411/problem/A
+
+36)  Sum in Binary Tree https://codeforces.com/contest/1843/problem/C
+
+37)  Suffix Tree https://codeforces.com/contest/1281/problem/A
+
+38)  Face Detection https://codeforces.com/contest/549/problem/A
+
+39)  Coder https://codeforces.com/contest/384/problem/A
+
+40)  a+b=? https://codeforces.com/contest/1772/problem/A
+
+41)  Matrix Rotation https://codeforces.com/contest/1772/problem/B
+
+42)  Bar https://codeforces.com/contest/56/problem/A
+
+43)  Competitive Programmer https://codeforces.com/contest/1266/problem/A
+
+44) Ambitious Kid https://codeforces.com/contest/1866/problem/A
+
+45) Clock Conversion https://codeforces.com/contest/1950/problem/C
+
+46) Secret Sport https://codeforces.com/problemset/problem/1894/A
+
+47) Reflection https://codeforces.com/contest/86/problem/A
+
+48) Shortest Path https://codeforces.com/contest/59/problem/E
+
+49) Pythagorean Triples https://codeforces.com/contest/707/problem/C
+
+50) Stair, Peak, or Neither? https://codeforces.com/contest/1950/problem/A
+
+51) Number of islands https://leetcode.com/problems/number-of-islands/description/
+
+52) Superhero Transformation https://codeforces.com/contest/1111/problem/A
+
+53) CHAIN - Strange Food Chain https://www.spoj.com/problems/CHAIN/
+
+54) Is it a tree https://www.spoj.com/problems/PT07Y/
+
+55) Labyrinth https://www.spoj.com/problems/LABYR1/
+
+57) Dubstep https://codeforces.com/contest/208/problem/A
+
+58) Strong Password https://codeforces.com/contest/1845/problem/C
+
+59) Strong Password https://codeforces.com/contest/1997/problem/A
+
+60) Friendly Arrays https://codeforces.com/contest/1870/problem/B
+
+61) Honest Coach https://codeforces.com/contest/1360/problem/B
+
+62) Blanc Space https://codeforces.com/contest/1829/problem/B
+
+63) Insert Digit https://codeforces.com/contest/1811/problem/A
+
+64) Password https://codeforces.com/contest/1743/problem/A
+
+65) Parkway walk https://codeforces.com/problemset/problem/1697/A
+
+66) Greg's workout https://codeforces.com/contest/255/problem/A
+
+67) Shortest Path with Obstacle https://codeforces.com/contest/1547/problem/A
+
+68) Design Tutorial: Learning From Math https://codeforces.com/contest/472/problem/A
+
+70) Design Tutorial: Make it nondeterministic https://codeforces.com/contest/472/problem/C
+
+71) Three Brothers https://codeforces.com/problemset/problem/2010/B
+
+72) Message Transmission https://codeforces.com/problemset/problem/2010/C1
+
+73) Flip Flop Sum https://codeforces.com/problemset/problem/1778/A
+
+74) Weird Algorithm https://cses.fi/problemset/task/1068
+
+75) Missing Number https://cses.fi/problemset/task/1083
+
+76) Repetitions https://cses.fi/problemset/task/1069
+
+77) Increasing Array https://cses.fi/problemset/task/1094
+
+78) Permutations https://cses.fi/problemset/task/1070
+
+79) Number Spiral https://cses.fi/problemset/task/1071
+
+80) Two knights https://cses.fi/problemset/task/1072
+
+81) Two Sets https://cses.fi/problemset/task/1092
+
+#### References
 
 <ul>
   <li>
@@ -130,31 +261,24 @@ Teams Forming https://codeforces.com/contest/1092/problem/B
   </li>
   <li>
     <p><a href="https://cpbook.net/details">Competitive Programming: Steven Halim</a></p>
-  </li>
-  <li>
-    <p><a href="https://cses.fi/problemset/user/166019/">CSES Problem Set</a></p>
-  </li>
-  <li>
-    <p><a href="https://www.spoj.com/">Sphere Online Judge (SPOJ)</a></p>
-  </li>
+  </li> 
   <li>
     <p><a href="https://train.usaco.org/">USACO Training Program Gateway</a></p>
   </li>
   <li>
-    <p><a href="https://codeforces.com/profile/thinkphp">Codeforce Programming Contests</a></p>
+    <p><a href="https://medium.com/algorithms-and-leetcode/math-related-problems-on-leetcode-9537df481fbe">Math related problems on LeetCode </a></p>
   </li>
-  <li>
-    <p><a href="https://adventofcode.com/">Advent of code</a></p>
-  </li>
+
 </ul>
 
-Math References:
+* https://artofproblemsolving.com/wiki/index.php/Euclidean_algorithm#Main_idea_and_Informal_Description
 
-https://github.com/ImperialCollegeLondon/Mathematical-Computing-Demo/blob/master/M1C%20(Python)/M1C-Number-Theory/.ipynb_checkpoints/Python%20Number%20Theory%2003%20-%20Extended%20Euclidean%20Algorithm-checkpoint.ipynb
+* https://www.math.cmu.edu/~bkell/21110-2010s/extended-euclidean.html
 
+#### Math References:
 
 https://brilliant.org/wiki/bezouts-identity/
 
-https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
+https://brilliant.org/wiki/extended-euclidean-algorithm/
 
-https://artofproblemsolving.com/wiki/index.php/Goldbach_Conjecture
+https://www.intmath.com/quadratic-equations/sum-product-roots-quadratic-equation.php
