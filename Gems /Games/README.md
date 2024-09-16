@@ -6,3 +6,5 @@
 4. Tic Tac Toe
 5. Eggs
 6. Ping-Pong
+7. Asteroids
+8. Ball
