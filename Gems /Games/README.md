@@ -8,3 +8,5 @@
 6. Ping-Pong
 7. Asteroids
 8. Ball
+9. Towers Of Hanoi auto solve
+10. Towers of Hanoi Simple
