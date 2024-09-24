@@ -1,4 +1,4 @@
-## Graphics User Interface GUI App
+## Graphics User Interface GUI Desktop App
 
 ### References
 
