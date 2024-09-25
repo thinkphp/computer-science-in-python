@@ -1,7 +1,5 @@
 # Computer Science in Python
 
-# **Python 3 Introductory Course**
-
 ## **Course Overview**
 This course is designed to introduce the Python programming language to students, covering the basic to intermediate concepts required for problem-solving and application development. The goal is to equip students with the skills to write efficient and clean Python code. By the end of this course, students will have a solid foundation to further explore more advanced topics such as data science, machine learning, and web development.
 
