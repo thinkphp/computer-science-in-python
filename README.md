@@ -1,17 +1,340 @@
 # Computer Science in Python
 
-# Example 1: Importing a module
-import math
-print(math.sqrt(16))
+# **Python 3 Introductory Course**
 
-# Example 2: Importing specific functions
-from math import pi, pow
-print(pi, pow(2, 3))
+## **Course Overview**
+This course is designed to introduce the Python programming language to students, covering the basic to intermediate concepts required for problem-solving and application development. The goal is to equip students with the skills to write efficient and clean Python code. By the end of this course, students will have a solid foundation to further explore more advanced topics such as data science, machine learning, and web development.
 
-# Example 3: Custom module (if students create their own)
-import my_module  # Assuming there's a my_module.py file
+### **Prerequisites**
+- Basic understanding of computer science concepts
+- Familiarity with programming logic (loops, conditionals, etc.)
 
+---
 
+## **1. Introduction to Python Programming**
+
+### **1.1. What is Python?**
+Python is a high-level, interpreted language known for its simplicity and readability. It is widely used in web development, data analysis, artificial intelligence, and scientific computing.
+
+### **1.2. Python Syntax & Basics**
+
+- **Comments:** Use `#` for single-line comments and `''' ... '''` for multi-line comments.
+  
+- **Variables and Data Types**  
+  Python handles different data types automatically.
+
+    ```python
+    # Example 1: Defining variables
+    x = 5               # Integer
+    y = 3.14            # Float
+    name = "Stanford"   # String
+    is_student = True   # Boolean
+
+    # Example 2: Changing types
+    age = 21
+    age = "Twenty-one"  # Reassigned to a string
+    ```
+
+- **Print Function**
+
+    ```python
+    # Example 3: Printing values
+    print("Welcome to Python!")  
+    print(f"My age is {age}")   # String formatting with f-strings
+    ```
+
+---
+
+## **2. Control Flow**
+
+### **2.1. Conditional Statements**
+
+- **if-else Statements:**
+
+    ```python
+    # Example 1: Basic if-else
+    age = 20
+    if age >= 18:
+        print("Adult")
+    else:
+        print("Minor")
+
+    # Example 2: if-elif-else
+    marks = 85
+    if marks >= 90:
+        print("Grade A")
+    elif marks >= 80:
+        print("Grade B")
+    else:
+        print("Grade C")
+
+    # Example 3: Nested conditionals
+    num = 7
+    if num % 2 == 0:
+        if num > 5:
+            print("Even and greater than 5")
+        else:
+            print("Even and less than or equal to 5")
+    else:
+        print("Odd")
+    ```
+
+### **2.2. Loops**
+
+- **for Loops:**
+
+    ```python
+    # Example 1: Loop through a list
+    students = ["Alice", "Bob", "Charlie"]
+    for student in students:
+        print(student)
+
+    # Example 2: Loop with range
+    for i in range(5):  # Loop from 0 to 4
+        print(i)
+
+    # Example 3: Loop with step
+    for i in range(0, 10, 2):  # Loop with step 2
+        print(i)
+    ```
+
+- **while Loops:**
+
+    ```python
+    # Example 1: Basic while loop
+    count = 0
+    while count < 5:
+        print(count)
+        count += 1
+
+    # Example 2: Break statement
+    i = 0
+    while i < 10:
+        if i == 7:
+            break
+        print(i)
+        i += 1
+
+    # Example 3: Continue statement
+    for i in range(10):
+        if i % 2 == 0:
+            continue  # Skip even numbers
+        print(i)
+    ```
+
+---
+
+## **3. Functions**
+
+### **3.1. Defining and Calling Functions**
+
+- **Basic Function:**
+
+    ```python
+    # Example 1: Simple function
+    def greet(name):
+        print(f"Hello, {name}!")
+
+    greet("Stanford")
+
+    # Example 2: Return values
+    def add(a, b):
+        return a + b
+
+    result = add(5, 3)
+    print(result)
+
+    # Example 3: Default arguments
+    def greet_with_time(name, time_of_day="morning"):
+        print(f"Good {time_of_day}, {name}!")
+
+    greet_with_time("Alice", "evening")
+    greet_with_time("Bob")
+    ```
+
+### **3.2. Lambda Functions**
+
+- **Lambda Syntax:**
+
+    ```python
+    # Example 1: Basic lambda function
+    add = lambda x, y: x + y
+    print(add(5, 3))
+
+    # Example 2: Lambda in filter
+    numbers = [1, 2, 3, 4, 5]
+    even_numbers = list(filter(lambda x: x % 2 == 0, numbers))
+    print(even_numbers)
+
+    # Example 3: Lambda with map
+    squares = list(map(lambda x: x ** 2, numbers))
+    print(squares)
+    ```
+
+---
+
+## **4. Data Structures**
+
+### **4.1. Lists**
+
+- **List Basics:**
+
+    ```python
+    # Example 1: Creating a list
+    fruits = ["apple", "banana", "cherry"]
+    print(fruits)
+
+    # Example 2: List indexing
+    print(fruits[0])   # First element
+    print(fruits[-1])  # Last element
+
+    # Example 3: Modifying a list
+    fruits.append("orange")
+    fruits[1] = "blueberry"
+    print(fruits)
+    ```
+
+### **4.2. Dictionaries**
+
+- **Dictionary Basics:**
+
+    ```python
+    # Example 1: Creating a dictionary
+    student = {"name": "Alice", "age": 20, "major": "CS"}
+    print(student)
+
+    # Example 2: Accessing values
+    print(student["name"])
+    print(student.get("age"))
+
+    # Example 3: Modifying a dictionary
+    student["age"] = 21
+    student["university"] = "Stanford"
+    print(student)
+    ```
+
+### **4.3. Tuples**
+
+- **Tuple Basics:**
+
+    ```python
+    # Example 1: Creating a tuple
+    coordinates = (10, 20)
+    print(coordinates)
+
+    # Example 2: Unpacking a tuple
+    x, y = coordinates
+    print(x, y)
+
+    # Example 3: Tuple immutability
+    try:
+        coordinates[0] = 5  # Raises an error
+    except TypeError:
+        print("Tuples are immutable!")
+    ```
+
+---
+
+## **5. Object-Oriented Programming**
+
+### **5.1. Classes and Objects**
+
+- **Class Syntax:**
+
+    ```python
+    # Example 1: Defining a class
+    class Student:
+        def __init__(self, name, age):
+            self.name = name
+            self.age = age
+
+        def greet(self):
+            print(f"Hello, my name is {self.name}.")
+
+    # Example 2: Creating an object
+    student1 = Student("Alice", 20)
+    student1.greet()
+
+    # Example 3: Modifying attributes
+    student1.age = 21
+    print(f"{student1.name} is now {student1.age} years old.")
+    ```
+
+---
+
+## **6. File Handling**
+
+### **6.1. Reading and Writing Files**
+
+- **File Operations:**
+
+    ```python
+    # Example 1: Writing to a file
+    with open("file.txt", "w") as file:
+        file.write("Hello, Stanford!")
+
+    # Example 2: Reading from a file
+    with open("file.txt", "r") as file:
+        content = file.read()
+        print(content)
+
+    # Example 3: Appending to a file
+    with open("file.txt", "a") as file:
+        file.write("\nNew line added.")
+    ```
+
+---
+
+## **7. Error Handling**
+
+### **7.1. Try-Except Blocks**
+
+- **Exception Handling:**
+
+    ```python
+    # Example 1: Basic try-except
+    try:
+        x = 10 / 0
+    except ZeroDivisionError:
+        print("Cannot divide by zero!")
+
+    # Example 2: Multiple exceptions
+    try:
+        x = int("abc")
+    except (ValueError, TypeError) as e:
+        print(f"Error: {e}")
+
+    # Example 3: Finally clause
+    try:
+        file = open("file.txt", "r")
+    except FileNotFoundError:
+        print("File not found.")
+    finally:
+        print("This block always runs.")
+    ```
+
+---
+
+## **8. Modules and Packages**
+
+### **8.1. Importing Modules**
+
+- **Using Built-in Modules:**
+
+    ```python
+    # Example 1: Importing a module
+    import math
+    print(math.sqrt(16))
+
+    # Example 2: Importing specific functions
+    from math import pi, pow
+    print(pi, pow(2, 3))
+
+    # Example 3: Custom module (if students create their own)
+    import my_module  # Assuming there's a my_module.py file
+    ```
+
+---
 
 
 
