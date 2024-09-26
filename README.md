@@ -1,8 +1,5 @@
 # Computer Science in Python
 
-```markdown
-# Python 3 Course Outline
-
 This course introduces students to key concepts in Python 3, providing practical examples for hands-on learning. Each topic builds on the previous one to ensure a smooth learning experience.
 
 ## Table of Contents
