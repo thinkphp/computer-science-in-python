@@ -1,7 +1,5 @@
 # Computer Science in Python
 
-Certainly! Here’s a structured outline for a Python 3 course formatted in Markdown:
-
 ```markdown
 # Python 3 Course Outline
 
