@@ -100,10 +100,7 @@ This course introduces students to key concepts in Python 3, providing practical
   - A simple web app with Flask
   - A data analysis script using pandas
 
----
-
 This course is structured to give a comprehensive foundation in Python while encouraging practical application of skills through exercises and projects.
-```
 
 
 
