@@ -1,7 +1,5 @@
 # Tkinter GUI App Desktop
 
-# Introduction to Tkinter GUI App Development
-
 ## Course Outline
 
 1. Introduction to Tkinter
