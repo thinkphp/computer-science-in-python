@@ -4,7 +4,7 @@ pip install PyQt5
 ```
 
 
-# Introduction to PyQt5 GUI App Development
+## Introduction to PyQt5 GUI App Development
 
 PyQt5 is a comprehensive set of Python bindings for Qt v5. It allows you to create desktop applications with a native look and feel on various platforms. Let's look at three examples to get started.
 
