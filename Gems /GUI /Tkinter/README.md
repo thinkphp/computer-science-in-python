@@ -43,7 +43,12 @@ Tkinter is Python's standard GUI (Graphical User Interface) package. It provides
    - Code organization
    - Error handling
    - Final project: Building a complete application
-  
+
+
+
+Example 1: Hello, World! 
+This example creates a window with a "Hello, World!" label.
+
 ```
 import tkinter as tk
 
@@ -52,6 +57,24 @@ root.title("Hello, World!")
 
 label = tk.Label(root, text="Hello, World!")
 label.pack(padx=20, pady=20)
+
+root.mainloop()
+```
+
+Example 2: Button Click
+This example demonstrates how to create a button and handle a click event.
+
+```
+import tkinter as tk
+
+def button_click():
+    print("Button clicked!")
+
+root = tk.Tk()
+root.title("Button Example")
+
+button = tk.Button(root, text="Click me!", command=button_click)
+button.pack(padx=20, pady=20)
 
 root.mainloop()
 ```
