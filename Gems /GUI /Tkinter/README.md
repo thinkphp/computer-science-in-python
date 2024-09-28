@@ -1,6 +1,6 @@
 # Tkinter GUI App Desktop
 
-Tkinter is Python's standard GUI (Graphical User Interface) package. It provides a fast and easy way to create GUI applications. Let's look at three examples to get started.
+Tkinter is Python's standard GUI (Graphical User Interface) package. It provides a fast and easy way to create GUI applications. 
 
 ## Course Outline
 
@@ -45,6 +45,7 @@ Tkinter is Python's standard GUI (Graphical User Interface) package. It provides
    - Final project: Building a complete application
 
 
+Let's look at some examples to get started.
 
 ####  Example 1: Hello, World! 
 This example creates a window with a "Hello, World!" label.
