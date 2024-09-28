@@ -102,3 +102,33 @@ submit_button.pack(padx=10, pady=10)
 
 root.mainloop()
 ```
+
+Advanced widgets. This example shows the usage of Listbox, Checkbutton, and Radiobutton widgets.
+```
+import tkinter as tk
+
+root = tk.Tk()
+root.title("Advanced Widgets")
+
+# Listbox
+listbox = tk.Listbox(root)
+listbox.insert(1, "Python")
+listbox.insert(2, "Java")
+listbox.insert(3, "C++")
+listbox.pack(pady=10)
+
+# Checkbutton
+var1 = tk.IntVar()
+checkbutton = tk.Checkbutton(root, text="Choose me", variable=var1)
+checkbutton.pack(pady=10)
+
+# Radiobutton
+var2 = tk.StringVar()
+var2.set("option1")
+radio1 = tk.Radiobutton(root, text="Option 1", variable=var2, value="option1")
+radio2 = tk.Radiobutton(root, text="Option 2", variable=var2, value="option2")
+radio1.pack()
+radio2.pack()
+
+root.mainloop()
+```
