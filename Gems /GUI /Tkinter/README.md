@@ -132,3 +132,32 @@ radio2.pack()
 
 root.mainloop()
 ```
+Container Widgets. This example demonstrates the use of Frame and LabelFrame container widgets.
+```
+import tkinter as tk
+
+root = tk.Tk()
+root.title("Container Widgets")
+
+# Frame
+frame = tk.Frame(root, borderwidth=2, relief="groove")
+frame.pack(padx=10, pady=10)
+
+label1 = tk.Label(frame, text="Inside Frame")
+label1.pack(padx=5, pady=5)
+
+button1 = tk.Button(frame, text="Frame Button")
+button1.pack(padx=5, pady=5)
+
+# LabelFrame
+labelframe = tk.LabelFrame(root, text="LabelFrame", padx=5, pady=5)
+labelframe.pack(padx=10, pady=10)
+
+label2 = tk.Label(labelframe, text="Inside LabelFrame")
+label2.pack()
+
+button2 = tk.Button(labelframe, text="LabelFrame Button")
+button2.pack()
+
+root.mainloop()
+```
