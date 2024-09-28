@@ -78,3 +78,27 @@ button.pack(padx=20, pady=20)
 
 root.mainloop()
 ```
+
+Example 3: Entry Widget
+This example shows how to use an Entry widget to get user input.
+```
+import tkinter as tk
+
+def submit():
+    name = entry.get()
+    print(f"Hello, {name}!")
+
+root = tk.Tk()
+root.title("Entry Widget Example")
+
+label = tk.Label(root, text="Enter your name:")
+label.pack(padx=10, pady=5)
+
+entry = tk.Entry(root)
+entry.pack(padx=10, pady=5)
+
+submit_button = tk.Button(root, text="Submit", command=submit)
+submit_button.pack(padx=10, pady=10)
+
+root.mainloop()
+```
