@@ -43,3 +43,15 @@ Tkinter is Python's standard GUI (Graphical User Interface) package. It provides
    - Code organization
    - Error handling
    - Final project: Building a complete application
+  
+```
+import tkinter as tk
+
+root = tk.Tk()
+root.title("Hello, World!")
+
+label = tk.Label(root, text="Hello, World!")
+label.pack(padx=20, pady=20)
+
+root.mainloop()
+```
