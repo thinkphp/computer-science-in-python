@@ -37,5 +37,3 @@ To use this for larger graphs or read input from a file, you could extend the `m
 1. Read the number of vertices and edges from input.
 2. Read each edge and its weight.
 3. Construct the graph based on this input.
-
-Would you like to see an example of how to modify this code to handle input for larger graphs, or do you have any questions about the implementation?
