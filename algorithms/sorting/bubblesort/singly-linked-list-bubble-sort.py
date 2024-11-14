@@ -37,3 +37,22 @@ def print_list(head):
         current = current.next
     print()
 
+if __name__ == "__main__":
+    head = None
+
+    # Creating a linked list
+    head = push(head, 5)
+    head = push(head, 3)
+    head = push(head, 8)
+    head = push(head, 2)
+    head = push(head, 10)
+    head = push(head, 1)
+
+    print("Unsorted List:")
+    print_list(head)
+
+    # Sorting the linked list using bubble sort
+    bubble_sort(head)
+
+    print("Sorted List:")
+    print_list(head)
