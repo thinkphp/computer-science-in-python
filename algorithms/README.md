@@ -8,6 +8,10 @@
 7. Eq. degree 2
 8. Eq. degree 1
 9. Primes (FTA, display N primes, till N)
+10. Goldbach's conjecture
+11. PI
+12. Euler's number
+13. Ln
 
 # References
 
