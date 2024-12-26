@@ -1,3 +1,14 @@
+# Fundamental Algorithms
+1. Euclid's Algorithm
+2. Extended Euclid's algorithm
+3. Fibonacci Sequence
+4. Factorial
+5. Collatz
+6. Pascal's triangle
+7. Eq. degree 2
+8. Eq. degree 1
+9. Primes (FTA, display N primes, till N)
+
 # References
 
 
