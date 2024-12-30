@@ -7,11 +7,14 @@
 6. Pascal's triangle
 7. Eq. degree 2
 8. Eq. degree 1
-9. Primes (FTA, display N primes, till N, sieve of Eratosthenes)
-10. Goldbach's conjecture
-11. PI
-12. Euler's number
-13. Ln
+9. Nature roots x1,x2
+10. Primes (FTA, display N primes, till N, sieve of Eratosthenes)
+11. Goldbach's conjecture
+12. PI
+13. Euler's number
+14. Ln
+15. Euler's totient
+16. Series Farey
 
 # References
 
