@@ -1,20 +1,30 @@
 # Fundamental Algorithms
-1. Euclid's Algorithm
-2. Extended Euclid's algorithm
-3. Fibonacci Sequence
-4. Factorial
-5. Collatz
-6. Pascal's triangle
-7. Eq. degree 2
-8. Eq. degree 1
-9. Nature roots x1,x2
-10. Primes (FTA, display N primes, till N, sieve of Eratosthenes)
-11. Goldbach's conjecture
-12. PI
-13. Euler's number
-14. Ln
-15. Euler's totient
-16. Series Farey
+
+- Euclid's algorithm
+- Extended Euclid's algorithm
+- Fibonacci Sequence
+- Factorial
+- Collatz
+- Pascal's Triangle
+- Goldbach's conjecture
+- Primes (test isPrime, Fundamental Theorem of Arithmetic, display N primes and till N, Sieve of Eratosthenes)
+- Modular Exponentiation
+- Eq degree 1
+- Eq degree 2
+- Nature roots x1,x2 quadratic equations 
+- Towers of Hanoi
+- Babylonian Square Root
+- PI
+- Euler's number
+- Natural Logarithm
+- Euler's totient
+- Series Farey
+- Gen Permutations
+- Gen Subsets
+- Kadane's algoritm -Maximum Subarray Sum
+- Prefix Sum
+- Sliding Window Algorithm
+- Z-Algorithm
 
 # References
 
