@@ -14,40 +14,40 @@
  8. Read A Matrix Recursively https://ideone.com/YTM2xp
  9. Return all elements Spiral Order Matrix https://ideone.com/zWo34T
  10. Sorting without comparison of the elements https://ideone.com/iwm671
-11. Derivates of Polynomial https://ideone.com/dDO9F8
-12. Permutations https://ideone.com/9rCihk
-13. Partitions https://ideone.com/2RPrMh
-14. Check Order Array https://ideone.com/7HM5qx
-15. Mountain https://ideone.com/bthCIr
-16. Sorting using counting https://ideone.com/QUOfCC
-17. Isosceles Triangle - iterative https://replit.com/@thinkphp/IsoscelesTriangle#triangle.py
-18. Isosceles Triangle - recursive https://replit.com/@thinkphp/IsoscelesTriangle#main.py
-19. Goldbach Conjecture - https://ideone.com/oVTdD7
-20. Collatz Conjecture - https://ideone.com/Dt3Sb7
-21. Frequency - count number of accurrences in a list https://ideone.com/KVA9ML
-22. Finding Max Consecutive Subseq https://ideone.com/CMEmTK
-23. Finds the equation of the straight line through the points  ( 0 , 2 )  and  ( − 1 , 4 ) .https://ideone.com/Ggtpxm
-24. Check if 2 lines are parallel https://ideone.com/Dpa4FU
-25. Minimum Distance Point0 and a set of Points https://ideone.com/a31pXX (version 2) https://ideone.com/sIrL5z (version 1)
-26. Check whether a Point belongs to a set of Circles https://ideone.com/kpHa9d
-27. Check whether the position of a point P(x,y) to the Circle(O,R): inside, outside or on the circle https://ideone.com/myrecent
-28. Collinear Points https://ideone.com/l87qWg
-29. Count Primes Eratosthenes https://ideone.com/JdvnGf
-30. Sieve of Eratosthenes https://ideone.com/VufKCT
-31. Sieve of Eratosthenes based on BITWISE https://ideone.com/owhvhO
-32. Prime numbers https://ideone.com/4dnzJk
-33. Primes converted to Binary Numbers https://ideone.com/dO7nAy
-34. PI Approximation rely on Leibniz (1  - 1/3 + 1/5 - 1/7 + 1/9 -...) and Monte Carlo Methods https://ideone.com/5lPpZl https://ideone.com/xO2avG
-35. Euler's number
-36. Conjecture of Goldbach https://ideone.com/bXcb2h
-37. Flip Problem https://ideone.com/4Gfh49
-38. Minimalist Password Generator ____
-39. Sum of Two Big Numbers https://ideone.com/XWiP6G
-40. Choosing Laptop https://ideone.com/8oRMUH
-41. Rook https://ideone.com/DMxGYe
-42. Teams Forming https://ideone.com/PSs4Un
+11. Derivative of Polynomial https://ideone.com/dDO9F8 
+13. Permutations https://ideone.com/9rCihk
+14. Partitions https://ideone.com/2RPrMh
+15. Check Order Array https://ideone.com/7HM5qx
+16. Mountain https://ideone.com/bthCIr
+17. Sorting using counting https://ideone.com/QUOfCC
+18. Isosceles Triangle - iterative https://replit.com/@thinkphp/IsoscelesTriangle#triangle.py
+19. Isosceles Triangle - recursive https://replit.com/@thinkphp/IsoscelesTriangle#main.py
+20. Goldbach Conjecture - https://ideone.com/oVTdD7
+21. Collatz Conjecture - https://ideone.com/Dt3Sb7
+22. Frequency - count number of accurrences in a list https://ideone.com/KVA9ML
+23. Finding Max Consecutive Subseq https://ideone.com/CMEmTK
+24. Finds the equation of the straight line through the points  ( 0 , 2 )  and  ( − 1 , 4 ) .https://ideone.com/Ggtpxm
+25. Check if 2 lines are parallel https://ideone.com/Dpa4FU
+26. Minimum Distance Point0 and a set of Points https://ideone.com/a31pXX (version 2) https://ideone.com/sIrL5z (version 1)
+27. Check whether a Point belongs to a set of Circles https://ideone.com/kpHa9d
+28. Check whether the position of a point P(x,y) to the Circle(O,R): inside, outside or on the circle https://ideone.com/myrecent
+29. Collinear Points https://ideone.com/l87qWg
+30. Count Primes Eratosthenes https://ideone.com/JdvnGf
+31. Sieve of Eratosthenes https://ideone.com/VufKCT
+32. Sieve of Eratosthenes based on BITWISE https://ideone.com/owhvhO
+33. Prime numbers https://ideone.com/4dnzJk
+34. Primes converted to Binary Numbers https://ideone.com/dO7nAy
+35. PI Approximation rely on Leibniz (1  - 1/3 + 1/5 - 1/7 + 1/9 -...) and Monte Carlo Methods https://ideone.com/5lPpZl https://ideone.com/xO2avG
+36. Euler's number
+37. Conjecture of Goldbach https://ideone.com/bXcb2h
+38. Flip Problem https://ideone.com/4Gfh49
+39. Minimalist Password Generator ____
+40. Sum of Two Big Numbers https://ideone.com/XWiP6G
+41. Choosing Laptop https://ideone.com/8oRMUH
+42. Rook https://ideone.com/DMxGYe
+43. Teams Forming https://ideone.com/PSs4Un
 
-43. Password https://codeforces.com/contest/1743/problem/A
+44. Password https://codeforces.com/contest/1743/problem/A
 
 ## Problem Set
 
