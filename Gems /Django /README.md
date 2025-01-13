@@ -286,3 +286,6 @@ The coursework covers seven fundamental concepts:
 Each section includes a brief explanation of the concept followed by at least three practical examples. This structure should help students understand both the theory and practical application of Django concepts.
 
 Would you like me to explain or elaborate on any specific part of this coursework? Or perhaps you'd like to see how we could expand on a particular concept?
+
+### References
+- https://www.w3schools.com/django/django_intro.php
