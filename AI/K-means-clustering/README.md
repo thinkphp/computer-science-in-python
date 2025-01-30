@@ -5,3 +5,4 @@
 - https://en.wikipedia.org/wiki/K-means_clustering
 - https://www.ibm.com/think/topics/k-means-clustering
 - https://www.geeksforgeeks.org/k-means-clustering-introduction/
+- https://ocw.cs.pub.ro/courses/ewis/laboratoare/09
