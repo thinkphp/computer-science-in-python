@@ -1,3 +1,5 @@
+# Decorators
+
 In Python, decorators are a powerful tool that allows you to modify the behavior of functions without altering their original code. When working with decorators that need to handle functions with a variable number of arguments, you can leverage `*args` and `**kwargs` to achieve flexibility.
 
 **Understanding *args and **kwargs**
@@ -56,3 +58,8 @@ In this example, the `log_function` decorator captures both positional and keywo
 * The wrapper function within the decorator provides a layer of control to modify behavior before or after the original function execution.
 
 Remember, decorators with `*args` and `**kwargs` offer a powerful way to enhance your functions without modifying their core logic.
+
+
+### References:
+
+- https://www.geeksforgeeks.org/decorators-in-python/
