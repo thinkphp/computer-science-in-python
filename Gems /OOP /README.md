@@ -1,7 +1,4 @@
 🔍 **Roadmap complet pentru stăpânirea OOP în Python**  
-
-Ți-am structurat conceptele și pașii de urmat într-o ordine logică, de la noțiuni de bază până la tehnici avansate, cu exemple și sugestii practice. Poți folosi acest roadmap ca ghid pentru a aprofunda fiecare concept.  
-
 ---
 
 ## 🚀 **Etapa 1: Fundamente OOP**  
