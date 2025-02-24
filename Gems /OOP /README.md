@@ -1,6 +1,3 @@
-🔍 **Roadmap complet pentru stăpânirea OOP în Python**  
----
-
 ## 🚀 **Etapa 1: Fundamente OOP**  
 🔑 *Scop:* Înțelegerea conceptelor esențiale și cum se aplică în Python.  
 ### ✔ **Ce trebuie să stăpânești:**  
