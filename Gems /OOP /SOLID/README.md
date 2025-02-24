@@ -1,3 +1,5 @@
+# SOLID 
+
 Conceptul **SOLID** reprezintă un set de principii pentru programarea orientată pe obiecte (OOP), care ajută la crearea unui cod mai flexibil, ușor de întreținut și scalabil. Principiile au fost popularizate de **Robert C. Martin (Uncle Bob)** și sunt fundamentale în dezvoltarea de software robust.  
 
 Iată o prezentare teoretică a fiecărui principiu:
