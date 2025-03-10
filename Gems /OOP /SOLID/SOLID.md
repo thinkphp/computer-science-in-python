@@ -261,5 +261,3 @@ These examples demonstrate how to apply each SOLID principle in Python. The key 
 - Liskov Substitution: Subtypes must be substitutable for their base types
 - Interface Segregation: Create specific interfaces rather than general ones
 - Dependency Inversion: Depend on abstractions, not concrete implementations
-
-Would you like me to elaborate on any specific principle?
