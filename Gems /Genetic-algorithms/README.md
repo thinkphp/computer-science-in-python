@@ -27,6 +27,13 @@ community. The first has grown into the field of neural networks, the second int
 third into what is now called "evolutionary computation," of which genetic algorithms are the most prominent
 example.
 
+### A BRIEF HISTORY OF EVOLUTIONARY COMPUTATION
+
+In the 1950s and the 1960s several computer scientists independently studied evolutionary systems with the
+idea that evolution could be used as an optimization tool for engineering problems. The idea in all these
+systems was to evolve a population of candidate solutions to a given problem, using operators inspired by
+natural genetic variation and natural selection
+
 ### References
 - https://users.utcluj.ro/~ocuibus/SE/rezumat_GA.pdf
 - https://webspace.ulbsibiu.ro/daniel.morariu/html/StudentDoc/ML/IA-laborator5.pdf
